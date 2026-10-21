@@ -1,0 +1,729 @@
+order_id,order_date,month,weekday,customer_id,plan_type,bouquet,size,price_eur,delivery_area,channel,status,rating
+P-00001,2025-11-01,2025-11,Saturday,C188,Monthly,Wild Meadow,Small,21.5,Centrs,Website,Refunded,
+P-00002,2025-11-02,2025-11,Sunday,C089,Bi-weekly,Tulip Spring,Small,19.5,Purvciems,Instagram,Delivered,
+P-00003,2025-11-03,2025-11,Monday,C235,Weekly,Riga Rose Classic,Large,48.0,Mežaparks,Website,Delivered,
+P-00004,2025-11-04,2025-11,Tuesday,C198,Monthly,Riga Rose Classic,Small,25.5,Teika,Website,Delivered,
+P-00005,2025-11-05,2025-11,Wednesday,C154,Weekly,Riga Rose Classic,Medium,34.0,Centrs,Website,Delivered,
+P-00006,2025-11-06,2025-11,Thursday,C105,Weekly,Wild Meadow,Medium,29.0,Purvciems,Website,Delivered,5
+P-00007,2025-11-07,2025-11,Friday,C249,Bi-weekly,Seasonal Surprise,Medium,31.5,Mežaparks,Website,Delivered,5
+P-00008,2025-11-07,2025-11,Friday,C229,Monthly,Tulip Spring,Small,19.5,Purvciems,Referral,Delivered,4
+P-00009,2025-11-08,2025-11,Saturday,C008,Weekly,Seasonal Surprise,Small,23.5,Jūrmala,Website,Delivered,5
+P-00010,2025-11-09,2025-11,Sunday,C243,Weekly,Riga Rose Classic,Medium,34.0,Purvciems,Website,Delivered,
+P-00011,2025-11-10,2025-11,Monday,C118,Monthly,Seasonal Surprise,Medium,31.5,Purvciems,Instagram,Delivered,
+P-00012,2025-11-11,2025-11,Tuesday,C187,One-off,Tulip Spring,Medium,29.0,Teika,Instagram,Delivered,4
+P-00013,2025-11-12,2025-11,Wednesday,C141,Bi-weekly,Sunflower Glow,Small,18.0,Mežaparks,Gift voucher,Delivered,
+P-00014,2025-11-12,2025-11,Wednesday,C189,Bi-weekly,Riga Rose Classic,Small,25.5,Jūrmala,Instagram,Delivered,4
+P-00015,2025-11-13,2025-11,Thursday,C131,Monthly,Seasonal Surprise,Small,23.5,Jūrmala,Website,Delivered,5
+P-00016,2025-11-14,2025-11,Friday,C259,Bi-weekly,Riga Rose Classic,Medium,34.0,Jūrmala,Website,Delivered,
+P-00017,2025-11-14,2025-11,Friday,C252,One-off,Seasonal Surprise,Large,49.0,Teika,Instagram,Cancelled,
+P-00018,2025-11-14,2025-11,Friday,C219,Bi-weekly,Riga Rose Classic,Small,25.5,Purvciems,Website,Delivered,
+P-00019,2025-11-15,2025-11,Saturday,C102,Monthly,Seasonal Surprise,Large,44.0,Teika,Gift voucher,Delivered,
+P-00020,2025-11-15,2025-11,Saturday,C126,One-off,Seasonal Surprise,Medium,35.0,Purvciems,Instagram,Delivered,4
+P-00021,2025-11-16,2025-11,Sunday,C228,One-off,Riga Rose Classic,Small,28.5,Jūrmala,Instagram,Delivered,4
+P-00022,2025-11-17,2025-11,Monday,C001,Bi-weekly,Wild Meadow,Small,21.5,Centrs,Referral,Cancelled,
+P-00023,2025-11-18,2025-11,Tuesday,C099,Weekly,Tulip Spring,Medium,26.0,Imanta,Instagram,Cancelled,
+P-00024,2025-11-19,2025-11,Wednesday,C105,Weekly,Wild Meadow,Large,40.5,Mežaparks,Website,Delivered,5
+P-00025,2025-11-20,2025-11,Thursday,C246,One-off,Riga Rose Classic,Small,28.5,Āgenskalns,Referral,Delivered,
+P-00026,2025-11-20,2025-11,Thursday,C204,Bi-weekly,Riga Rose Classic,Medium,34.0,Purvciems,Website,Delivered,5
+P-00027,2025-11-21,2025-11,Friday,C172,Weekly,Wild Meadow,Medium,29.0,Teika,Instagram,Delivered,3
+P-00028,2025-11-22,2025-11,Saturday,C012,One-off,Peony Blush,Large,63.0,Jūrmala,Website,Delivered,
+P-00029,2025-11-23,2025-11,Sunday,C209,Monthly,Seasonal Surprise,Large,44.0,Centrs,Website,Delivered,5
+P-00030,2025-11-24,2025-11,Monday,C134,One-off,Riga Rose Classic,Small,28.5,Centrs,Instagram,Delivered,5
+P-00031,2025-11-25,2025-11,Tuesday,C049,Weekly,Tulip Spring,Medium,26.0,Centrs,Referral,Delivered,5
+P-00032,2025-11-26,2025-11,Wednesday,C013,One-off,Seasonal Surprise,Medium,35.0,Jūrmala,Instagram,Cancelled,
+P-00033,2025-11-26,2025-11,Wednesday,C012,One-off,Riga Rose Classic,Small,28.5,Centrs,Website,Delivered,5
+P-00034,2025-11-27,2025-11,Thursday,C212,One-off,Riga Rose Classic,Small,28.5,Purvciems,Website,Delivered,
+P-00035,2025-11-27,2025-11,Thursday,C032,One-off,Riga Rose Classic,Small,28.5,Centrs,Gift voucher,Delivered,
+P-00036,2025-11-28,2025-11,Friday,C235,Weekly,Sunflower Glow,Small,18.0,Jūrmala,Instagram,Delivered,
+P-00037,2025-11-29,2025-11,Saturday,C091,Monthly,Wild Meadow,Large,40.5,Jūrmala,Website,Delivered,5
+P-00038,2025-11-30,2025-11,Sunday,C186,Weekly,Seasonal Surprise,Large,44.0,Jūrmala,Referral,Delivered,2
+P-00039,2025-12-01,2025-12,Monday,C213,Bi-weekly,Tulip Spring,Small,19.5,Purvciems,Gift voucher,Delivered,5
+P-00040,2025-12-01,2025-12,Monday,C239,Bi-weekly,Seasonal Surprise,Large,44.0,Centrs,Referral,Delivered,5
+P-00041,2025-12-02,2025-12,Tuesday,C250,One-off,Riga Rose Classic,Medium,38.0,Imanta,Website,Delivered,5
+P-00042,2025-12-03,2025-12,Wednesday,C257,Monthly,Riga Rose Classic,Small,25.5,Centrs,Referral,Delivered,
+P-00043,2025-12-03,2025-12,Wednesday,C143,One-off,Riga Rose Classic,Large,53.0,Centrs,Instagram,Delivered,
+P-00044,2025-12-04,2025-12,Thursday,C192,Monthly,Riga Rose Classic,Small,25.5,Purvciems,Instagram,Delivered,
+P-00045,2025-12-05,2025-12,Friday,C138,Weekly,Wild Meadow,Medium,29.0,Purvciems,Website,Delivered,
+P-00046,2025-12-05,2025-12,Friday,C206,Monthly,Tulip Spring,Medium,26.0,Centrs,Website,Delivered,4
+P-00047,2025-12-05,2025-12,Friday,C097,One-off,Riga Rose Classic,Medium,38.0,Purvciems,Gift voucher,Delivered,4
+P-00048,2025-12-06,2025-12,Saturday,C234,Monthly,Seasonal Surprise,Small,23.5,Centrs,Website,Delivered,
+P-00049,2025-12-06,2025-12,Saturday,C099,Weekly,Tulip Spring,Large,36.5,Imanta,Website,Delivered,
+P-00050,2025-12-07,2025-12,Sunday,C172,Weekly,Seasonal Surprise,Small,23.5,Purvciems,Referral,Delivered,4
+P-00051,2025-12-08,2025-12,Monday,C138,Weekly,Riga Rose Classic,Large,48.0,Teika,Instagram,Delivered,5
+P-00052,2025-12-09,2025-12,Tuesday,C172,Weekly,Seasonal Surprise,Small,23.5,Jūrmala,Website,Delivered,3
+P-00053,2025-12-09,2025-12,Tuesday,C024,One-off,Seasonal Surprise,Medium,35.0,Teika,Website,Delivered,
+P-00054,2025-12-10,2025-12,Wednesday,C224,Weekly,Tulip Spring,Large,36.5,Imanta,Website,Delivered,4
+P-00055,2025-12-11,2025-12,Thursday,C107,One-off,Riga Rose Classic,Large,53.0,Teika,Gift voucher,Delivered,4
+P-00056,2025-12-11,2025-12,Thursday,C094,One-off,Wild Meadow,Medium,32.0,Āgenskalns,Website,Delivered,
+P-00057,2025-12-12,2025-12,Friday,C235,Weekly,Seasonal Surprise,Medium,31.5,Centrs,Website,Delivered,5
+P-00058,2025-12-12,2025-12,Friday,C010,Monthly,Seasonal Surprise,Small,23.5,Purvciems,Instagram,Delivered,4
+P-00059,2025-12-12,2025-12,Friday,C250,One-off,Seasonal Surprise,Large,49.0,Purvciems,Website,Delivered,5
+P-00060,2025-12-13,2025-12,Saturday,C098,Monthly,Seasonal Surprise,Medium,31.5,Purvciems,Referral,Delivered,4
+P-00061,2025-12-13,2025-12,Saturday,C203,Bi-weekly,Riga Rose Classic,Large,48.0,Centrs,Website,Delivered,4
+P-00062,2025-12-14,2025-12,Sunday,C085,Bi-weekly,Sunflower Glow,Small,18.0,Jūrmala,Gift voucher,Delivered,
+P-00063,2025-12-15,2025-12,Monday,C200,Monthly,Wild Meadow,Small,21.5,Mežaparks,Gift voucher,Delivered,4
+P-00064,2025-12-16,2025-12,Tuesday,C241,One-off,Seasonal Surprise,Medium,35.0,Centrs,Website,Delivered,
+P-00065,2025-12-16,2025-12,Tuesday,C189,Bi-weekly,Wild Meadow,Medium,29.0,Centrs,Website,Delivered,1
+P-00066,2025-12-17,2025-12,Wednesday,C186,Weekly,Sunflower Glow,Medium,24.5,Centrs,Instagram,Delivered,
+P-00067,2025-12-18,2025-12,Thursday,C229,Monthly,Seasonal Surprise,Small,23.5,Imanta,Referral,Delivered,5
+P-00068,2025-12-18,2025-12,Thursday,C145,Bi-weekly,Seasonal Surprise,Small,23.5,Centrs,Instagram,Delivered,5
+P-00069,2025-12-18,2025-12,Thursday,C049,Weekly,Peony Blush,Large,56.5,Centrs,Instagram,Delivered,5
+P-00070,2025-12-18,2025-12,Thursday,C174,Monthly,Riga Rose Classic,Small,25.5,Teika,Website,Delivered,5
+P-00071,2025-12-19,2025-12,Friday,C166,Bi-weekly,Seasonal Surprise,Small,23.5,Centrs,Website,Delivered,
+P-00072,2025-12-19,2025-12,Friday,C208,Weekly,Wild Meadow,Small,21.5,Imanta,Website,Delivered,
+P-00073,2025-12-19,2025-12,Friday,C155,One-off,Riga Rose Classic,Medium,38.0,Centrs,Referral,Delivered,4
+P-00074,2025-12-20,2025-12,Saturday,C196,Bi-weekly,Wild Meadow,Small,21.5,Teika,Instagram,Delivered,5
+P-00075,2025-12-20,2025-12,Saturday,C056,Weekly,Sunflower Glow,Medium,24.5,Centrs,Gift voucher,Delivered,
+P-00076,2025-12-20,2025-12,Saturday,C219,Bi-weekly,Tulip Spring,Medium,26.0,Teika,Website,Delivered,
+P-00077,2025-12-20,2025-12,Saturday,C005,Bi-weekly,Riga Rose Classic,Medium,34.0,Centrs,Website,Delivered,3
+P-00078,2025-12-20,2025-12,Saturday,C182,One-off,Peony Blush,Medium,45.0,Teika,Referral,Delivered,5
+P-00079,2025-12-20,2025-12,Saturday,C188,Monthly,Seasonal Surprise,Medium,31.5,Mežaparks,Website,Delivered,
+P-00080,2025-12-21,2025-12,Sunday,C127,One-off,Riga Rose Classic,Medium,38.0,Jūrmala,Instagram,Cancelled,
+P-00081,2025-12-21,2025-12,Sunday,C138,Weekly,Seasonal Surprise,Small,23.5,Jūrmala,Referral,Delivered,3
+P-00082,2025-12-22,2025-12,Monday,C061,Bi-weekly,Peony Blush,Small,30.5,Teika,Website,Delivered,5
+P-00083,2025-12-22,2025-12,Monday,C046,One-off,Wild Meadow,Large,45.0,Āgenskalns,Website,Refunded,
+P-00084,2025-12-22,2025-12,Monday,C139,One-off,Seasonal Surprise,Large,49.0,Mežaparks,Instagram,Cancelled,
+P-00085,2025-12-22,2025-12,Monday,C076,Bi-weekly,Peony Blush,Large,56.5,Teika,Instagram,Cancelled,
+P-00086,2025-12-22,2025-12,Monday,C163,Weekly,Seasonal Surprise,Small,23.5,Jūrmala,Website,Delivered,
+P-00087,2025-12-23,2025-12,Tuesday,C076,Bi-weekly,Seasonal Surprise,Medium,31.5,Purvciems,Instagram,Delivered,4
+P-00088,2025-12-23,2025-12,Tuesday,C239,Bi-weekly,Sunflower Glow,Medium,24.5,Āgenskalns,Website,Delivered,
+P-00089,2025-12-24,2025-12,Wednesday,C145,Bi-weekly,Riga Rose Classic,Small,25.5,Purvciems,Instagram,Delivered,2
+P-00090,2025-12-24,2025-12,Wednesday,C255,Monthly,Riga Rose Classic,Medium,34.0,Teika,Gift voucher,Delivered,5
+P-00091,2025-12-24,2025-12,Wednesday,C068,One-off,Tulip Spring,Medium,29.0,Jūrmala,Website,Delivered,5
+P-00092,2025-12-24,2025-12,Wednesday,C231,Bi-weekly,Riga Rose Classic,Medium,34.0,Jūrmala,Instagram,Delivered,
+P-00093,2025-12-24,2025-12,Wednesday,C092,Monthly,Tulip Spring,Small,19.5,Purvciems,Referral,Delivered,
+P-00094,2025-12-25,2025-12,Thursday,C169,Weekly,Seasonal Surprise,Small,23.5,Centrs,Website,Delivered,
+P-00095,2025-12-25,2025-12,Thursday,C079,One-off,Seasonal Surprise,Large,49.0,Āgenskalns,Website,Delivered,
+P-00096,2025-12-26,2025-12,Friday,C066,One-off,Riga Rose Classic,Small,28.5,Centrs,Instagram,Delivered,5
+P-00097,2025-12-26,2025-12,Friday,C079,One-off,Riga Rose Classic,Large,53.0,Teika,Website,Refunded,
+P-00098,2025-12-27,2025-12,Saturday,C050,One-off,Wild Meadow,Small,24.0,Purvciems,Instagram,Delivered,3
+P-00099,2025-12-27,2025-12,Saturday,C123,One-off,Tulip Spring,Small,22.0,Āgenskalns,Website,Delivered,2
+P-00100,2025-12-28,2025-12,Sunday,C112,One-off,Seasonal Surprise,Large,49.0,Purvciems,Gift voucher,Delivered,
+P-00101,2025-12-29,2025-12,Monday,C025,One-off,Seasonal Surprise,Medium,35.0,Centrs,Instagram,Delivered,
+P-00102,2025-12-30,2025-12,Tuesday,C073,Bi-weekly,Wild Meadow,Medium,29.0,Teika,Website,Delivered,
+P-00103,2025-12-31,2025-12,Wednesday,C248,One-off,Seasonal Surprise,Small,26.0,Centrs,Instagram,Delivered,5
+P-00104,2026-01-01,2026-01,Thursday,C185,Weekly,Tulip Spring,Medium,26.0,Teika,Website,Delivered,4
+P-00105,2026-01-01,2026-01,Thursday,C150,Bi-weekly,Peony Blush,Medium,40.5,Imanta,Website,Delivered,
+P-00106,2026-01-02,2026-01,Friday,C135,Monthly,Tulip Spring,Small,19.5,Jūrmala,Referral,Delivered,4
+P-00107,2026-01-02,2026-01,Friday,C250,One-off,Seasonal Surprise,Small,26.0,Centrs,Website,Delivered,5
+P-00108,2026-01-03,2026-01,Saturday,C176,One-off,Riga Rose Classic,Medium,38.0,Centrs,Website,Delivered,5
+P-00109,2026-01-03,2026-01,Saturday,C227,Weekly,Seasonal Surprise,Small,23.5,Āgenskalns,Referral,Refunded,
+P-00110,2026-01-04,2026-01,Sunday,C211,Monthly,Tulip Spring,Medium,26.0,Āgenskalns,Website,Delivered,
+P-00111,2026-01-05,2026-01,Monday,C144,Bi-weekly,Riga Rose Classic,Medium,34.0,Centrs,Instagram,Delivered,
+P-00112,2026-01-05,2026-01,Monday,C024,One-off,Seasonal Surprise,Medium,35.0,Centrs,Website,Delivered,
+P-00113,2026-01-06,2026-01,Tuesday,C114,Monthly,Seasonal Surprise,Medium,31.5,Purvciems,Referral,Delivered,3
+P-00114,2026-01-07,2026-01,Wednesday,C247,Bi-weekly,Seasonal Surprise,Small,23.5,Purvciems,Website,Delivered,5
+P-00115,2026-01-07,2026-01,Wednesday,C102,Monthly,Tulip Spring,Medium,26.0,Centrs,Website,Delivered,4
+P-00116,2026-01-08,2026-01,Thursday,C177,Bi-weekly,Tulip Spring,Small,19.5,Imanta,Website,Delivered,4
+P-00117,2026-01-08,2026-01,Thursday,C049,Weekly,Tulip Spring,Medium,26.0,Āgenskalns,Instagram,Delivered,5
+P-00118,2026-01-09,2026-01,Friday,C069,Monthly,Riga Rose Classic,Large,48.0,Purvciems,Website,Delivered,
+P-00119,2026-01-09,2026-01,Friday,C178,Weekly,Tulip Spring,Large,36.5,Mežaparks,Instagram,Delivered,
+P-00120,2026-01-10,2026-01,Saturday,C019,Weekly,Riga Rose Classic,Medium,34.0,Āgenskalns,Instagram,Delivered,4
+P-00121,2026-01-10,2026-01,Saturday,C145,Bi-weekly,Tulip Spring,Medium,26.0,Jūrmala,Instagram,Cancelled,
+P-00122,2026-01-11,2026-01,Sunday,C203,Bi-weekly,Tulip Spring,Small,19.5,Centrs,Referral,Delivered,5
+P-00123,2026-01-12,2026-01,Monday,C180,Bi-weekly,Wild Meadow,Medium,29.0,Imanta,Website,Delivered,
+P-00124,2026-01-13,2026-01,Tuesday,C072,One-off,Wild Meadow,Small,24.0,Teika,Instagram,Delivered,1
+P-00125,2026-01-14,2026-01,Wednesday,C177,Bi-weekly,Riga Rose Classic,Medium,34.0,Teika,Website,Delivered,
+P-00126,2026-01-15,2026-01,Thursday,C193,One-off,Riga Rose Classic,Medium,38.0,Centrs,Website,Delivered,5
+P-00127,2026-01-16,2026-01,Friday,C054,Weekly,Tulip Spring,Medium,26.0,Centrs,Website,Delivered,5
+P-00128,2026-01-16,2026-01,Friday,C154,Weekly,Tulip Spring,Small,19.5,Āgenskalns,Referral,Delivered,
+P-00129,2026-01-17,2026-01,Saturday,C197,Monthly,Peony Blush,Large,56.5,Centrs,Website,Delivered,5
+P-00130,2026-01-17,2026-01,Saturday,C240,One-off,Tulip Spring,Large,40.5,Centrs,Website,Delivered,4
+P-00131,2026-01-18,2026-01,Sunday,C190,Bi-weekly,Tulip Spring,Medium,26.0,Teika,Instagram,Delivered,5
+P-00132,2026-01-19,2026-01,Monday,C169,Weekly,Riga Rose Classic,Small,25.5,Centrs,Instagram,Cancelled,
+P-00133,2026-01-19,2026-01,Monday,C169,Weekly,Tulip Spring,Medium,26.0,Purvciems,Website,Delivered,4
+P-00134,2026-01-20,2026-01,Tuesday,C144,Bi-weekly,Tulip Spring,Medium,26.0,Jūrmala,Website,Delivered,5
+P-00135,2026-01-21,2026-01,Wednesday,C216,Weekly,Peony Blush,Medium,40.5,Centrs,Website,Delivered,3
+P-00136,2026-01-21,2026-01,Wednesday,C145,Bi-weekly,Riga Rose Classic,Medium,34.0,Centrs,Website,Delivered,
+P-00137,2026-01-22,2026-01,Thursday,C056,Weekly,Tulip Spring,Small,19.5,Teika,Website,Delivered,4
+P-00138,2026-01-22,2026-01,Thursday,C099,Weekly,Wild Meadow,Large,40.5,Teika,Referral,Delivered,
+P-00139,2026-01-23,2026-01,Friday,C018,Monthly,Riga Rose Classic,Small,25.5,Teika,Website,Delivered,
+P-00140,2026-01-24,2026-01,Saturday,C056,Weekly,Riga Rose Classic,Medium,34.0,Centrs,Website,Delivered,
+P-00141,2026-01-24,2026-01,Saturday,C061,Bi-weekly,Tulip Spring,Medium,26.0,Teika,Website,Delivered,1
+P-00142,2026-01-25,2026-01,Sunday,C249,Bi-weekly,Tulip Spring,Small,19.5,Purvciems,Instagram,Delivered,3
+P-00143,2026-01-26,2026-01,Monday,C199,One-off,Seasonal Surprise,Large,49.0,Centrs,Referral,Cancelled,
+P-00144,2026-01-26,2026-01,Monday,C036,One-off,Tulip Spring,Medium,29.0,Teika,Website,Delivered,4
+P-00145,2026-01-27,2026-01,Tuesday,C167,Bi-weekly,Tulip Spring,Medium,26.0,Mežaparks,Website,Cancelled,
+P-00146,2026-01-27,2026-01,Tuesday,C141,Bi-weekly,Tulip Spring,Medium,26.0,Jūrmala,Gift voucher,Delivered,
+P-00147,2026-01-28,2026-01,Wednesday,C084,Weekly,Sunflower Glow,Small,18.0,Purvciems,Instagram,Delivered,
+P-00148,2026-01-28,2026-01,Wednesday,C076,Bi-weekly,Tulip Spring,Medium,26.0,Centrs,Website,Delivered,5
+P-00149,2026-01-29,2026-01,Thursday,C253,Weekly,Tulip Spring,Medium,26.0,Teika,Referral,Delivered,5
+P-00150,2026-01-29,2026-01,Thursday,C148,Weekly,Tulip Spring,Large,36.5,Centrs,Instagram,Delivered,5
+P-00151,2026-01-30,2026-01,Friday,C192,Monthly,Seasonal Surprise,Small,23.5,Jūrmala,Website,Delivered,
+P-00152,2026-01-30,2026-01,Friday,C233,Monthly,Riga Rose Classic,Small,25.5,Imanta,Instagram,Delivered,5
+P-00153,2026-01-31,2026-01,Saturday,C224,Weekly,Riga Rose Classic,Small,25.5,Purvciems,Instagram,Delivered,
+P-00154,2026-01-31,2026-01,Saturday,C091,Monthly,Seasonal Surprise,Small,23.5,Mežaparks,Instagram,Cancelled,
+P-00155,2026-01-31,2026-01,Saturday,C120,One-off,Riga Rose Classic,Medium,38.0,Purvciems,Website,Delivered,5
+P-00156,2026-02-01,2026-02,Sunday,C059,One-off,Riga Rose Classic,Small,28.5,Centrs,Instagram,Delivered,
+P-00157,2026-02-01,2026-02,Sunday,C216,Weekly,Tulip Spring,Medium,26.0,Purvciems,Instagram,Delivered,
+P-00158,2026-02-02,2026-02,Monday,C247,Bi-weekly,Riga Rose Classic,Medium,34.0,Centrs,Instagram,Delivered,
+P-00159,2026-02-02,2026-02,Monday,C028,One-off,Tulip Spring,Medium,29.0,Āgenskalns,Website,Delivered,5
+P-00160,2026-02-03,2026-02,Tuesday,C178,Weekly,Seasonal Surprise,Medium,31.5,Teika,Website,Delivered,
+P-00161,2026-02-04,2026-02,Wednesday,C157,Bi-weekly,Riga Rose Classic,Small,25.5,Jūrmala,Instagram,Cancelled,
+P-00162,2026-02-04,2026-02,Wednesday,C130,One-off,Tulip Spring,Medium,29.0,Teika,Instagram,Delivered,5
+P-00163,2026-02-05,2026-02,Thursday,C241,One-off,Riga Rose Classic,Small,28.5,Jūrmala,Website,Delivered,1
+P-00164,2026-02-06,2026-02,Friday,C172,Weekly,Riga Rose Classic,Large,48.0,Teika,Instagram,Delivered,5
+P-00165,2026-02-06,2026-02,Friday,C204,Bi-weekly,Seasonal Surprise,Large,44.0,Āgenskalns,Website,Delivered,5
+P-00166,2026-02-07,2026-02,Saturday,C146,Monthly,Sunflower Glow,Large,34.0,Centrs,Website,Delivered,
+P-00167,2026-02-07,2026-02,Saturday,C216,Weekly,Seasonal Surprise,Large,44.0,Jūrmala,Instagram,Delivered,
+P-00168,2026-02-07,2026-02,Saturday,C049,Weekly,Riga Rose Classic,Medium,34.0,Mežaparks,Instagram,Delivered,
+P-00169,2026-02-08,2026-02,Sunday,C125,Weekly,Wild Meadow,Large,40.5,Purvciems,Referral,Delivered,5
+P-00170,2026-02-09,2026-02,Monday,C213,Bi-weekly,Riga Rose Classic,Small,25.5,Āgenskalns,Website,Delivered,
+P-00171,2026-02-10,2026-02,Tuesday,C208,Weekly,Riga Rose Classic,Small,25.5,Centrs,Gift voucher,Delivered,
+P-00172,2026-02-10,2026-02,Tuesday,C087,Bi-weekly,Riga Rose Classic,Medium,34.0,Centrs,Instagram,Delivered,5
+P-00173,2026-02-10,2026-02,Tuesday,C035,Monthly,Seasonal Surprise,Medium,31.5,Centrs,Referral,Delivered,5
+P-00174,2026-02-10,2026-02,Tuesday,C163,Weekly,Tulip Spring,Medium,26.0,Jūrmala,Website,Delivered,
+P-00175,2026-02-10,2026-02,Tuesday,C235,Weekly,Tulip Spring,Medium,26.0,Jūrmala,Instagram,Delivered,1
+P-00176,2026-02-10,2026-02,Tuesday,C134,One-off,Seasonal Surprise,Medium,35.0,Teika,Website,Delivered,
+P-00177,2026-02-10,2026-02,Tuesday,C044,One-off,Riga Rose Classic,Small,28.5,Imanta,Instagram,Delivered,
+P-00178,2026-02-11,2026-02,Wednesday,C172,Weekly,Seasonal Surprise,Medium,31.5,Purvciems,Website,Delivered,
+P-00179,2026-02-11,2026-02,Wednesday,C138,Weekly,Tulip Spring,Medium,26.0,Centrs,Instagram,Cancelled,
+P-00180,2026-02-11,2026-02,Wednesday,C101,Bi-weekly,Seasonal Surprise,Large,44.0,Centrs,Instagram,Cancelled,
+P-00181,2026-02-11,2026-02,Wednesday,C063,One-off,Seasonal Surprise,Large,49.0,Centrs,Website,Delivered,3
+P-00182,2026-02-11,2026-02,Wednesday,C084,Weekly,Peony Blush,Medium,40.5,Jūrmala,Website,Refunded,
+P-00183,2026-02-11,2026-02,Wednesday,C145,Bi-weekly,Riga Rose Classic,Small,25.5,Jūrmala,Referral,Delivered,
+P-00184,2026-02-11,2026-02,Wednesday,C214,One-off,Riga Rose Classic,Large,53.0,Purvciems,Instagram,Delivered,4
+P-00185,2026-02-11,2026-02,Wednesday,C008,Weekly,Tulip Spring,Medium,26.0,Teika,Instagram,Delivered,5
+P-00186,2026-02-12,2026-02,Thursday,C019,Weekly,Riga Rose Classic,Medium,34.0,Purvciems,Referral,Delivered,
+P-00187,2026-02-12,2026-02,Thursday,C172,Weekly,Riga Rose Classic,Medium,34.0,Jūrmala,Website,Delivered,5
+P-00188,2026-02-12,2026-02,Thursday,C147,Bi-weekly,Tulip Spring,Large,36.5,Centrs,Website,Delivered,
+P-00189,2026-02-12,2026-02,Thursday,C178,Weekly,Seasonal Surprise,Medium,31.5,Mežaparks,Instagram,Delivered,3
+P-00190,2026-02-12,2026-02,Thursday,C060,One-off,Seasonal Surprise,Medium,35.0,Centrs,Instagram,Delivered,4
+P-00191,2026-02-12,2026-02,Thursday,C228,One-off,Tulip Spring,Large,40.5,Purvciems,Instagram,Cancelled,
+P-00192,2026-02-12,2026-02,Thursday,C105,Weekly,Tulip Spring,Medium,26.0,Āgenskalns,Website,Delivered,
+P-00193,2026-02-12,2026-02,Thursday,C208,Weekly,Wild Meadow,Small,21.5,Centrs,Referral,Delivered,
+P-00194,2026-02-12,2026-02,Thursday,C078,Weekly,Seasonal Surprise,Large,44.0,Āgenskalns,Gift voucher,Delivered,4
+P-00195,2026-02-13,2026-02,Friday,C229,Monthly,Riga Rose Classic,Medium,34.0,Centrs,Website,Delivered,
+P-00196,2026-02-13,2026-02,Friday,C084,Weekly,Seasonal Surprise,Small,23.5,Teika,Referral,Delivered,4
+P-00197,2026-02-13,2026-02,Friday,C235,Weekly,Seasonal Surprise,Medium,31.5,Āgenskalns,Referral,Delivered,5
+P-00198,2026-02-13,2026-02,Friday,C030,Monthly,Seasonal Surprise,Medium,31.5,Centrs,Website,Delivered,5
+P-00199,2026-02-13,2026-02,Friday,C207,One-off,Tulip Spring,Small,22.0,Teika,Website,Delivered,
+P-00200,2026-02-13,2026-02,Friday,C047,One-off,Riga Rose Classic,Medium,38.0,Jūrmala,Instagram,Delivered,
+P-00201,2026-02-13,2026-02,Friday,C039,Monthly,Seasonal Surprise,Medium,31.5,Āgenskalns,Website,Delivered,4
+P-00202,2026-02-13,2026-02,Friday,C138,Weekly,Riga Rose Classic,Medium,34.0,Centrs,Instagram,Delivered,5
+P-00203,2026-02-13,2026-02,Friday,C074,Bi-weekly,Wild Meadow,Large,40.5,Āgenskalns,Gift voucher,Delivered,4
+P-00204,2026-02-13,2026-02,Friday,C243,Weekly,Riga Rose Classic,Medium,34.0,Centrs,Website,Delivered,
+P-00205,2026-02-13,2026-02,Friday,C172,Weekly,Riga Rose Classic,Small,25.5,Centrs,Instagram,Delivered,3
+P-00206,2026-02-14,2026-02,Saturday,C192,Monthly,Riga Rose Classic,Small,25.5,Purvciems,Gift voucher,Delivered,5
+P-00207,2026-02-14,2026-02,Saturday,C054,Weekly,Riga Rose Classic,Medium,34.0,Imanta,Website,Delivered,5
+P-00208,2026-02-14,2026-02,Saturday,C233,Monthly,Riga Rose Classic,Medium,34.0,Centrs,Instagram,Delivered,4
+P-00209,2026-02-14,2026-02,Saturday,C186,Weekly,Wild Meadow,Small,21.5,Āgenskalns,Website,Delivered,3
+P-00210,2026-02-14,2026-02,Saturday,C163,Weekly,Riga Rose Classic,Large,48.0,Teika,Referral,Delivered,
+P-00211,2026-02-14,2026-02,Saturday,C185,Weekly,Riga Rose Classic,Small,25.5,Teika,Website,Delivered,3
+P-00212,2026-02-14,2026-02,Saturday,C120,One-off,Riga Rose Classic,Medium,38.0,Teika,Referral,Delivered,
+P-00213,2026-02-14,2026-02,Saturday,C012,One-off,Wild Meadow,Large,45.0,Teika,Website,Delivered,
+P-00214,2026-02-15,2026-02,Sunday,C188,Monthly,Riga Rose Classic,Medium,34.0,Centrs,Instagram,Delivered,4
+P-00215,2026-02-16,2026-02,Monday,C166,Bi-weekly,Peony Blush,Medium,40.5,Centrs,Gift voucher,Delivered,
+P-00216,2026-02-17,2026-02,Tuesday,C108,Monthly,Riga Rose Classic,Large,48.0,Teika,Website,Refunded,
+P-00217,2026-02-18,2026-02,Wednesday,C049,Weekly,Seasonal Surprise,Small,23.5,Centrs,Instagram,Delivered,5
+P-00218,2026-02-18,2026-02,Wednesday,C253,Weekly,Riga Rose Classic,Medium,34.0,Centrs,Instagram,Delivered,4
+P-00219,2026-02-19,2026-02,Thursday,C128,Monthly,Riga Rose Classic,Medium,34.0,Mežaparks,Website,Cancelled,
+P-00220,2026-02-19,2026-02,Thursday,C236,One-off,Riga Rose Classic,Large,53.0,Centrs,Gift voucher,Delivered,4
+P-00221,2026-02-20,2026-02,Friday,C008,Weekly,Seasonal Surprise,Small,23.5,Āgenskalns,Website,Cancelled,
+P-00222,2026-02-20,2026-02,Friday,C099,Weekly,Peony Blush,Small,30.5,Teika,Website,Delivered,4
+P-00223,2026-02-20,2026-02,Friday,C105,Weekly,Riga Rose Classic,Medium,34.0,Purvciems,Instagram,Cancelled,
+P-00224,2026-02-21,2026-02,Saturday,C259,Bi-weekly,Tulip Spring,Small,19.5,Centrs,Website,Delivered,
+P-00225,2026-02-21,2026-02,Saturday,C242,One-off,Riga Rose Classic,Large,53.0,Centrs,Website,Delivered,
+P-00226,2026-02-22,2026-02,Sunday,C147,Bi-weekly,Peony Blush,Medium,40.5,Purvciems,Instagram,Delivered,
+P-00227,2026-02-23,2026-02,Monday,C189,Bi-weekly,Riga Rose Classic,Medium,34.0,Purvciems,Website,Delivered,5
+P-00228,2026-02-23,2026-02,Monday,C056,Weekly,Seasonal Surprise,Medium,31.5,Imanta,Gift voucher,Refunded,
+P-00229,2026-02-24,2026-02,Tuesday,C230,Bi-weekly,Riga Rose Classic,Medium,34.0,Centrs,Website,Delivered,
+P-00230,2026-02-24,2026-02,Tuesday,C137,One-off,Seasonal Surprise,Small,26.0,Mežaparks,Referral,Delivered,5
+P-00231,2026-02-25,2026-02,Wednesday,C220,Bi-weekly,Tulip Spring,Medium,26.0,Centrs,Website,Delivered,5
+P-00232,2026-02-25,2026-02,Wednesday,C114,Monthly,Tulip Spring,Large,36.5,Imanta,Website,Delivered,5
+P-00233,2026-02-26,2026-02,Thursday,C208,Weekly,Seasonal Surprise,Small,23.5,Mežaparks,Website,Delivered,
+P-00234,2026-02-26,2026-02,Thursday,C167,Bi-weekly,Tulip Spring,Medium,26.0,Centrs,Website,Delivered,2
+P-00235,2026-02-27,2026-02,Friday,C119,Monthly,Riga Rose Classic,Small,25.5,Teika,Referral,Delivered,
+P-00236,2026-02-27,2026-02,Friday,C159,Bi-weekly,Sunflower Glow,Large,34.0,Teika,Website,Delivered,2
+P-00237,2026-02-28,2026-02,Saturday,C177,Bi-weekly,Peony Blush,Large,56.5,Purvciems,Instagram,Delivered,3
+P-00238,2026-02-28,2026-02,Saturday,C144,Bi-weekly,Wild Meadow,Medium,29.0,Jūrmala,Referral,Delivered,4
+P-00239,2026-03-01,2026-03,Sunday,C149,Bi-weekly,Tulip Spring,Small,19.5,Imanta,Website,Delivered,
+P-00240,2026-03-02,2026-03,Monday,C246,One-off,Tulip Spring,Medium,29.0,Centrs,Website,Delivered,
+P-00241,2026-03-02,2026-03,Monday,C227,Weekly,Tulip Spring,Large,36.5,Imanta,Instagram,Delivered,1
+P-00242,2026-03-03,2026-03,Tuesday,C155,One-off,Tulip Spring,Large,40.5,Teika,Instagram,Delivered,5
+P-00243,2026-03-04,2026-03,Wednesday,C008,Weekly,Tulip Spring,Large,36.5,Mežaparks,Website,Delivered,3
+P-00244,2026-03-04,2026-03,Wednesday,C159,Bi-weekly,Peony Blush,Medium,40.5,Jūrmala,Referral,Delivered,4
+P-00245,2026-03-05,2026-03,Thursday,C177,Bi-weekly,Seasonal Surprise,Large,44.0,Centrs,Instagram,Delivered,5
+P-00246,2026-03-05,2026-03,Thursday,C115,One-off,Seasonal Surprise,Small,26.0,Imanta,Instagram,Delivered,4
+P-00247,2026-03-06,2026-03,Friday,C049,Weekly,Seasonal Surprise,Medium,31.5,Jūrmala,Website,Cancelled,
+P-00248,2026-03-06,2026-03,Friday,C049,Weekly,Riga Rose Classic,Medium,34.0,Āgenskalns,Referral,Delivered,4
+P-00249,2026-03-06,2026-03,Friday,C150,Bi-weekly,Tulip Spring,Small,19.5,Jūrmala,Referral,Delivered,
+P-00250,2026-03-06,2026-03,Friday,C204,Bi-weekly,Riga Rose Classic,Large,48.0,Imanta,Website,Delivered,4
+P-00251,2026-03-06,2026-03,Friday,C015,One-off,Peony Blush,Large,63.0,Centrs,Instagram,Delivered,5
+P-00252,2026-03-06,2026-03,Friday,C005,Bi-weekly,Tulip Spring,Large,36.5,Purvciems,Instagram,Delivered,
+P-00253,2026-03-06,2026-03,Friday,C159,Bi-weekly,Tulip Spring,Medium,26.0,Āgenskalns,Instagram,Delivered,
+P-00254,2026-03-06,2026-03,Friday,C186,Weekly,Seasonal Surprise,Large,44.0,Centrs,Instagram,Delivered,4
+P-00255,2026-03-06,2026-03,Friday,C244,Weekly,Tulip Spring,Large,36.5,Centrs,Website,Delivered,
+P-00256,2026-03-07,2026-03,Saturday,C197,Monthly,Tulip Spring,Large,36.5,Centrs,Website,Delivered,5
+P-00257,2026-03-07,2026-03,Saturday,C098,Monthly,Tulip Spring,Medium,26.0,Mežaparks,Referral,Delivered,
+P-00258,2026-03-07,2026-03,Saturday,C105,Weekly,Tulip Spring,Medium,26.0,Purvciems,Gift voucher,Delivered,
+P-00259,2026-03-07,2026-03,Saturday,C148,Weekly,Tulip Spring,Small,19.5,Āgenskalns,Referral,Delivered,
+P-00260,2026-03-07,2026-03,Saturday,C084,Weekly,Tulip Spring,Medium,26.0,Imanta,Referral,Cancelled,
+P-00261,2026-03-07,2026-03,Saturday,C104,One-off,Peony Blush,Medium,45.0,Centrs,Website,Delivered,4
+P-00262,2026-03-07,2026-03,Saturday,C062,Monthly,Tulip Spring,Large,36.5,Teika,Website,Delivered,5
+P-00263,2026-03-07,2026-03,Saturday,C115,One-off,Tulip Spring,Medium,29.0,Purvciems,Instagram,Delivered,5
+P-00264,2026-03-07,2026-03,Saturday,C068,One-off,Tulip Spring,Medium,29.0,Centrs,Website,Delivered,
+P-00265,2026-03-07,2026-03,Saturday,C107,One-off,Riga Rose Classic,Small,28.5,Āgenskalns,Website,Delivered,
+P-00266,2026-03-08,2026-03,Sunday,C001,Bi-weekly,Tulip Spring,Small,19.5,Imanta,Instagram,Delivered,
+P-00267,2026-03-08,2026-03,Sunday,C049,Weekly,Seasonal Surprise,Large,44.0,Centrs,Website,Delivered,
+P-00268,2026-03-08,2026-03,Sunday,C220,Bi-weekly,Sunflower Glow,Medium,24.5,Mežaparks,Gift voucher,Delivered,4
+P-00269,2026-03-08,2026-03,Sunday,C068,One-off,Tulip Spring,Large,40.5,Centrs,Website,Delivered,
+P-00270,2026-03-08,2026-03,Sunday,C151,Monthly,Tulip Spring,Medium,26.0,Centrs,Website,Delivered,
+P-00271,2026-03-08,2026-03,Sunday,C159,Bi-weekly,Peony Blush,Medium,40.5,Purvciems,Gift voucher,Delivered,
+P-00272,2026-03-08,2026-03,Sunday,C181,One-off,Tulip Spring,Medium,29.0,Centrs,Website,Delivered,5
+P-00273,2026-03-09,2026-03,Monday,C240,One-off,Seasonal Surprise,Medium,35.0,Centrs,Instagram,Delivered,3
+P-00274,2026-03-09,2026-03,Monday,C154,Weekly,Seasonal Surprise,Small,23.5,Teika,Instagram,Delivered,
+P-00275,2026-03-10,2026-03,Tuesday,C035,Monthly,Wild Meadow,Medium,29.0,Imanta,Referral,Delivered,
+P-00276,2026-03-11,2026-03,Wednesday,C142,One-off,Wild Meadow,Large,45.0,Purvciems,Referral,Delivered,
+P-00277,2026-03-12,2026-03,Thursday,C008,Weekly,Seasonal Surprise,Medium,31.5,Jūrmala,Website,Delivered,4
+P-00278,2026-03-13,2026-03,Friday,C247,Bi-weekly,Tulip Spring,Medium,26.0,Teika,Website,Delivered,5
+P-00279,2026-03-13,2026-03,Friday,C005,Bi-weekly,Tulip Spring,Small,19.5,Centrs,Website,Delivered,
+P-00280,2026-03-13,2026-03,Friday,C019,Weekly,Sunflower Glow,Medium,24.5,Centrs,Instagram,Delivered,5
+P-00281,2026-03-14,2026-03,Saturday,C085,Bi-weekly,Sunflower Glow,Small,18.0,Centrs,Gift voucher,Delivered,
+P-00282,2026-03-14,2026-03,Saturday,C131,Monthly,Tulip Spring,Large,36.5,Purvciems,Instagram,Delivered,5
+P-00283,2026-03-14,2026-03,Saturday,C029,One-off,Tulip Spring,Large,40.5,Centrs,Website,Delivered,4
+P-00284,2026-03-15,2026-03,Sunday,C088,Bi-weekly,Tulip Spring,Small,19.5,Mežaparks,Instagram,Cancelled,
+P-00285,2026-03-16,2026-03,Monday,C099,Weekly,Seasonal Surprise,Small,23.5,Purvciems,Instagram,Delivered,
+P-00286,2026-03-16,2026-03,Monday,C027,One-off,Peony Blush,Medium,45.0,Centrs,Gift voucher,Refunded,
+P-00287,2026-03-17,2026-03,Tuesday,C235,Weekly,Wild Meadow,Large,40.5,Imanta,Gift voucher,Delivered,4
+P-00288,2026-03-17,2026-03,Tuesday,C099,Weekly,Seasonal Surprise,Medium,31.5,Teika,Website,Delivered,
+P-00289,2026-03-18,2026-03,Wednesday,C041,Bi-weekly,Tulip Spring,Large,36.5,Āgenskalns,Website,Delivered,5
+P-00290,2026-03-18,2026-03,Wednesday,C119,Monthly,Tulip Spring,Small,19.5,Centrs,Instagram,Delivered,5
+P-00291,2026-03-19,2026-03,Thursday,C086,Weekly,Seasonal Surprise,Small,23.5,Jūrmala,Referral,Delivered,4
+P-00292,2026-03-19,2026-03,Thursday,C141,Bi-weekly,Tulip Spring,Small,19.5,Purvciems,Website,Delivered,
+P-00293,2026-03-20,2026-03,Friday,C128,Monthly,Tulip Spring,Medium,26.0,Imanta,Instagram,Delivered,4
+P-00294,2026-03-20,2026-03,Friday,C163,Weekly,Seasonal Surprise,Large,44.0,Āgenskalns,Referral,Delivered,
+P-00295,2026-03-20,2026-03,Friday,C112,One-off,Tulip Spring,Small,22.0,Jūrmala,Instagram,Delivered,
+P-00296,2026-03-21,2026-03,Saturday,C050,One-off,Wild Meadow,Small,24.0,Mežaparks,Instagram,Delivered,
+P-00297,2026-03-21,2026-03,Saturday,C172,Weekly,Tulip Spring,Small,19.5,Purvciems,Website,Delivered,3
+P-00298,2026-03-22,2026-03,Sunday,C147,Bi-weekly,Tulip Spring,Medium,26.0,Purvciems,Website,Cancelled,
+P-00299,2026-03-23,2026-03,Monday,C199,One-off,Tulip Spring,Large,40.5,Teika,Website,Delivered,
+P-00300,2026-03-23,2026-03,Monday,C028,One-off,Tulip Spring,Small,22.0,Jūrmala,Referral,Delivered,5
+P-00301,2026-03-24,2026-03,Tuesday,C078,Weekly,Riga Rose Classic,Small,25.5,Teika,Website,Delivered,5
+P-00302,2026-03-24,2026-03,Tuesday,C125,Weekly,Sunflower Glow,Small,18.0,Āgenskalns,Instagram,Delivered,
+P-00303,2026-03-25,2026-03,Wednesday,C163,Weekly,Riga Rose Classic,Small,25.5,Imanta,Website,Delivered,4
+P-00304,2026-03-25,2026-03,Wednesday,C013,One-off,Seasonal Surprise,Medium,35.0,Teika,Website,Refunded,
+P-00305,2026-03-26,2026-03,Thursday,C125,Weekly,Seasonal Surprise,Medium,31.5,Purvciems,Instagram,Delivered,4
+P-00306,2026-03-27,2026-03,Friday,C138,Weekly,Riga Rose Classic,Medium,34.0,Mežaparks,Website,Delivered,
+P-00307,2026-03-27,2026-03,Friday,C019,Weekly,Peony Blush,Small,30.5,Jūrmala,Instagram,Delivered,
+P-00308,2026-03-27,2026-03,Friday,C089,Bi-weekly,Tulip Spring,Medium,26.0,Teika,Instagram,Delivered,
+P-00309,2026-03-28,2026-03,Saturday,C244,Weekly,Tulip Spring,Medium,26.0,Teika,Website,Delivered,4
+P-00310,2026-03-28,2026-03,Saturday,C094,One-off,Tulip Spring,Small,22.0,Teika,Referral,Refunded,
+P-00311,2026-03-28,2026-03,Saturday,C094,One-off,Tulip Spring,Medium,29.0,Āgenskalns,Instagram,Cancelled,
+P-00312,2026-03-29,2026-03,Sunday,C172,Weekly,Tulip Spring,Small,19.5,Centrs,Website,Delivered,
+P-00313,2026-03-30,2026-03,Monday,C019,Weekly,Peony Blush,Medium,40.5,Mežaparks,Website,Delivered,3
+P-00314,2026-03-30,2026-03,Monday,C054,Weekly,Tulip Spring,Small,19.5,Jūrmala,Gift voucher,Refunded,
+P-00315,2026-03-31,2026-03,Tuesday,C193,One-off,Wild Meadow,Small,24.0,Imanta,Gift voucher,Delivered,
+P-00316,2026-03-31,2026-03,Tuesday,C089,Bi-weekly,Tulip Spring,Large,36.5,Centrs,Website,Delivered,3
+P-00317,2026-04-01,2026-04,Wednesday,C177,Bi-weekly,Riga Rose Classic,Small,25.5,Purvciems,Website,Delivered,3
+P-00318,2026-04-02,2026-04,Thursday,C201,One-off,Tulip Spring,Small,22.0,Āgenskalns,Referral,Delivered,
+P-00319,2026-04-03,2026-04,Friday,C073,Bi-weekly,Tulip Spring,Small,19.5,Mežaparks,Website,Delivered,
+P-00320,2026-04-03,2026-04,Friday,C151,Monthly,Tulip Spring,Large,36.5,Centrs,Instagram,Delivered,4
+P-00321,2026-04-04,2026-04,Saturday,C085,Bi-weekly,Seasonal Surprise,Small,23.5,Teika,Website,Refunded,
+P-00322,2026-04-04,2026-04,Saturday,C182,One-off,Tulip Spring,Small,22.0,Imanta,Instagram,Delivered,5
+P-00323,2026-04-04,2026-04,Saturday,C235,Weekly,Riga Rose Classic,Small,25.5,Imanta,Instagram,Delivered,3
+P-00324,2026-04-05,2026-04,Sunday,C011,One-off,Riga Rose Classic,Small,28.5,Imanta,Instagram,Delivered,3
+P-00325,2026-04-06,2026-04,Monday,C027,One-off,Riga Rose Classic,Medium,38.0,Teika,Gift voucher,Delivered,
+P-00326,2026-04-06,2026-04,Monday,C085,Bi-weekly,Sunflower Glow,Medium,24.5,Mežaparks,Instagram,Delivered,4
+P-00327,2026-04-07,2026-04,Tuesday,C145,Bi-weekly,Sunflower Glow,Large,34.0,Teika,Referral,Cancelled,
+P-00328,2026-04-08,2026-04,Wednesday,C079,One-off,Peony Blush,Large,63.0,Imanta,Instagram,Delivered,5
+P-00329,2026-04-08,2026-04,Wednesday,C172,Weekly,Riga Rose Classic,Small,25.5,Jūrmala,Referral,Delivered,4
+P-00330,2026-04-09,2026-04,Thursday,C197,Monthly,Riga Rose Classic,Medium,34.0,Purvciems,Instagram,Delivered,
+P-00331,2026-04-10,2026-04,Friday,C176,One-off,Riga Rose Classic,Small,28.5,Āgenskalns,Referral,Delivered,4
+P-00332,2026-04-10,2026-04,Friday,C012,One-off,Tulip Spring,Small,22.0,Centrs,Referral,Delivered,5
+P-00333,2026-04-10,2026-04,Friday,C086,Weekly,Peony Blush,Small,30.5,Purvciems,Referral,Delivered,5
+P-00334,2026-04-11,2026-04,Saturday,C035,Monthly,Tulip Spring,Small,19.5,Mežaparks,Website,Delivered,
+P-00335,2026-04-11,2026-04,Saturday,C149,Bi-weekly,Peony Blush,Medium,40.5,Teika,Instagram,Delivered,3
+P-00336,2026-04-12,2026-04,Sunday,C078,Weekly,Tulip Spring,Medium,26.0,Teika,Instagram,Delivered,
+P-00337,2026-04-13,2026-04,Monday,C113,Bi-weekly,Seasonal Surprise,Large,44.0,Teika,Referral,Delivered,5
+P-00338,2026-04-13,2026-04,Monday,C138,Weekly,Riga Rose Classic,Small,25.5,Teika,Instagram,Delivered,
+P-00339,2026-04-14,2026-04,Tuesday,C125,Weekly,Tulip Spring,Small,19.5,Āgenskalns,Instagram,Delivered,
+P-00340,2026-04-15,2026-04,Wednesday,C084,Weekly,Wild Meadow,Medium,29.0,Mežaparks,Instagram,Delivered,5
+P-00341,2026-04-15,2026-04,Wednesday,C034,Monthly,Seasonal Surprise,Small,23.5,Purvciems,Gift voucher,Delivered,4
+P-00342,2026-04-16,2026-04,Thursday,C013,One-off,Tulip Spring,Medium,29.0,Centrs,Website,Delivered,
+P-00343,2026-04-16,2026-04,Thursday,C257,Monthly,Tulip Spring,Small,19.5,Āgenskalns,Instagram,Delivered,
+P-00344,2026-04-17,2026-04,Friday,C007,One-off,Tulip Spring,Small,22.0,Imanta,Gift voucher,Delivered,5
+P-00345,2026-04-17,2026-04,Friday,C017,Bi-weekly,Tulip Spring,Medium,26.0,Purvciems,Website,Delivered,5
+P-00346,2026-04-17,2026-04,Friday,C076,Bi-weekly,Sunflower Glow,Medium,24.5,Centrs,Website,Delivered,
+P-00347,2026-04-18,2026-04,Saturday,C180,Bi-weekly,Wild Meadow,Medium,29.0,Āgenskalns,Website,Delivered,
+P-00348,2026-04-18,2026-04,Saturday,C161,One-off,Tulip Spring,Medium,29.0,Jūrmala,Gift voucher,Delivered,4
+P-00349,2026-04-19,2026-04,Sunday,C034,Monthly,Tulip Spring,Medium,26.0,Purvciems,Website,Delivered,
+P-00350,2026-04-20,2026-04,Monday,C088,Bi-weekly,Wild Meadow,Small,21.5,Teika,Instagram,Delivered,
+P-00351,2026-04-20,2026-04,Monday,C204,Bi-weekly,Riga Rose Classic,Large,48.0,Jūrmala,Instagram,Delivered,5
+P-00352,2026-04-21,2026-04,Tuesday,C172,Weekly,Peony Blush,Small,30.5,Āgenskalns,Website,Delivered,
+P-00353,2026-04-21,2026-04,Tuesday,C008,Weekly,Riga Rose Classic,Medium,34.0,Jūrmala,Website,Delivered,
+P-00354,2026-04-22,2026-04,Wednesday,C034,Monthly,Tulip Spring,Medium,26.0,Centrs,Referral,Delivered,
+P-00355,2026-04-22,2026-04,Wednesday,C059,One-off,Tulip Spring,Medium,29.0,Teika,Instagram,Delivered,5
+P-00356,2026-04-23,2026-04,Thursday,C209,Monthly,Tulip Spring,Small,19.5,Purvciems,Website,Delivered,5
+P-00357,2026-04-23,2026-04,Thursday,C141,Bi-weekly,Sunflower Glow,Large,34.0,Mežaparks,Website,Delivered,4
+P-00358,2026-04-24,2026-04,Friday,C169,Weekly,Seasonal Surprise,Large,44.0,Āgenskalns,Website,Delivered,4
+P-00359,2026-04-24,2026-04,Friday,C224,Weekly,Riga Rose Classic,Medium,34.0,Purvciems,Website,Delivered,3
+P-00360,2026-04-24,2026-04,Friday,C169,Weekly,Tulip Spring,Large,36.5,Teika,Website,Delivered,
+P-00361,2026-04-25,2026-04,Saturday,C048,Monthly,Tulip Spring,Medium,26.0,Āgenskalns,Instagram,Delivered,5
+P-00362,2026-04-25,2026-04,Saturday,C086,Weekly,Wild Meadow,Medium,29.0,Āgenskalns,Instagram,Cancelled,
+P-00363,2026-04-25,2026-04,Saturday,C209,Monthly,Riga Rose Classic,Medium,34.0,Teika,Website,Delivered,2
+P-00364,2026-04-26,2026-04,Sunday,C220,Bi-weekly,Tulip Spring,Small,19.5,Purvciems,Website,Delivered,5
+P-00365,2026-04-27,2026-04,Monday,C086,Weekly,Riga Rose Classic,Medium,34.0,Purvciems,Instagram,Delivered,5
+P-00366,2026-04-27,2026-04,Monday,C227,Weekly,Riga Rose Classic,Medium,34.0,Imanta,Referral,Delivered,5
+P-00367,2026-04-28,2026-04,Tuesday,C216,Weekly,Tulip Spring,Small,19.5,Purvciems,Website,Delivered,4
+P-00368,2026-04-28,2026-04,Tuesday,C214,One-off,Peony Blush,Large,63.0,Āgenskalns,Website,Delivered,
+P-00369,2026-04-28,2026-04,Tuesday,C253,Weekly,Tulip Spring,Medium,26.0,Centrs,Instagram,Cancelled,
+P-00370,2026-04-29,2026-04,Wednesday,C039,Monthly,Riga Rose Classic,Medium,34.0,Centrs,Instagram,Cancelled,
+P-00371,2026-04-29,2026-04,Wednesday,C008,Weekly,Seasonal Surprise,Large,44.0,Centrs,Instagram,Delivered,
+P-00372,2026-04-30,2026-04,Thursday,C244,Weekly,Sunflower Glow,Large,34.0,Purvciems,Website,Delivered,3
+P-00373,2026-04-30,2026-04,Thursday,C074,Bi-weekly,Tulip Spring,Small,19.5,Centrs,Website,Delivered,5
+P-00374,2026-05-01,2026-05,Friday,C090,One-off,Peony Blush,Large,63.0,Mežaparks,Website,Delivered,5
+P-00375,2026-05-01,2026-05,Friday,C170,One-off,Tulip Spring,Medium,29.0,Āgenskalns,Website,Delivered,3
+P-00376,2026-05-02,2026-05,Saturday,C235,Weekly,Peony Blush,Small,30.5,Jūrmala,Website,Delivered,4
+P-00377,2026-05-02,2026-05,Saturday,C109,One-off,Riga Rose Classic,Small,28.5,Āgenskalns,Website,Delivered,4
+P-00378,2026-05-02,2026-05,Saturday,C009,Monthly,Tulip Spring,Medium,26.0,Purvciems,Instagram,Delivered,2
+P-00379,2026-05-03,2026-05,Sunday,C035,Monthly,Peony Blush,Small,30.5,Jūrmala,Instagram,Delivered,
+P-00380,2026-05-03,2026-05,Sunday,C142,One-off,Tulip Spring,Medium,29.0,Āgenskalns,Website,Delivered,
+P-00381,2026-05-04,2026-05,Monday,C156,One-off,Riga Rose Classic,Medium,38.0,Centrs,Referral,Delivered,
+P-00382,2026-05-05,2026-05,Tuesday,C200,Monthly,Seasonal Surprise,Medium,31.5,Purvciems,Referral,Delivered,
+P-00383,2026-05-05,2026-05,Tuesday,C227,Weekly,Peony Blush,Large,56.5,Purvciems,Website,Delivered,
+P-00384,2026-05-06,2026-05,Wednesday,C190,Bi-weekly,Tulip Spring,Large,36.5,Jūrmala,Instagram,Delivered,4
+P-00385,2026-05-06,2026-05,Wednesday,C135,Monthly,Tulip Spring,Medium,26.0,Jūrmala,Website,Delivered,
+P-00386,2026-05-07,2026-05,Thursday,C055,Monthly,Peony Blush,Small,30.5,Centrs,Gift voucher,Delivered,
+P-00387,2026-05-08,2026-05,Friday,C172,Weekly,Tulip Spring,Large,36.5,Centrs,Website,Delivered,5
+P-00388,2026-05-08,2026-05,Friday,C214,One-off,Seasonal Surprise,Medium,35.0,Imanta,Instagram,Delivered,
+P-00389,2026-05-08,2026-05,Friday,C158,One-off,Wild Meadow,Small,24.0,Teika,Instagram,Delivered,2
+P-00390,2026-05-08,2026-05,Friday,C023,One-off,Tulip Spring,Medium,29.0,Purvciems,Instagram,Delivered,2
+P-00391,2026-05-08,2026-05,Friday,C163,Weekly,Tulip Spring,Medium,26.0,Purvciems,Instagram,Cancelled,
+P-00392,2026-05-08,2026-05,Friday,C007,One-off,Seasonal Surprise,Medium,35.0,Teika,Gift voucher,Delivered,2
+P-00393,2026-05-08,2026-05,Friday,C167,Bi-weekly,Tulip Spring,Small,19.5,Purvciems,Instagram,Delivered,5
+P-00394,2026-05-09,2026-05,Saturday,C169,Weekly,Seasonal Surprise,Medium,31.5,Centrs,Instagram,Delivered,
+P-00395,2026-05-09,2026-05,Saturday,C141,Bi-weekly,Tulip Spring,Medium,26.0,Centrs,Instagram,Delivered,4
+P-00396,2026-05-09,2026-05,Saturday,C236,One-off,Peony Blush,Large,63.0,Āgenskalns,Gift voucher,Delivered,5
+P-00397,2026-05-09,2026-05,Saturday,C257,Monthly,Peony Blush,Large,56.5,Purvciems,Referral,Delivered,4
+P-00398,2026-05-09,2026-05,Saturday,C171,One-off,Peony Blush,Small,34.0,Purvciems,Website,Delivered,
+P-00399,2026-05-09,2026-05,Saturday,C249,Bi-weekly,Tulip Spring,Small,19.5,Imanta,Referral,Delivered,4
+P-00400,2026-05-09,2026-05,Saturday,C190,Bi-weekly,Tulip Spring,Large,36.5,Mežaparks,Referral,Delivered,3
+P-00401,2026-05-10,2026-05,Sunday,C049,Weekly,Wild Meadow,Medium,29.0,Centrs,Instagram,Delivered,5
+P-00402,2026-05-10,2026-05,Sunday,C105,Weekly,Peony Blush,Medium,40.5,Purvciems,Referral,Delivered,
+P-00403,2026-05-10,2026-05,Sunday,C247,Bi-weekly,Riga Rose Classic,Small,25.5,Āgenskalns,Website,Delivered,
+P-00404,2026-05-10,2026-05,Sunday,C137,One-off,Tulip Spring,Medium,29.0,Jūrmala,Referral,Delivered,
+P-00405,2026-05-11,2026-05,Monday,C008,Weekly,Peony Blush,Large,56.5,Āgenskalns,Referral,Delivered,
+P-00406,2026-05-11,2026-05,Monday,C141,Bi-weekly,Wild Meadow,Medium,29.0,Mežaparks,Referral,Delivered,
+P-00407,2026-05-12,2026-05,Tuesday,C160,One-off,Tulip Spring,Large,40.5,Purvciems,Instagram,Delivered,3
+P-00408,2026-05-13,2026-05,Wednesday,C206,Monthly,Peony Blush,Large,56.5,Imanta,Website,Delivered,5
+P-00409,2026-05-13,2026-05,Wednesday,C255,Monthly,Tulip Spring,Medium,26.0,Centrs,Website,Delivered,5
+P-00410,2026-05-14,2026-05,Thursday,C225,One-off,Peony Blush,Large,63.0,Centrs,Referral,Delivered,
+P-00411,2026-05-14,2026-05,Thursday,C109,One-off,Peony Blush,Small,34.0,Āgenskalns,Referral,Delivered,
+P-00412,2026-05-14,2026-05,Thursday,C033,Monthly,Riga Rose Classic,Medium,34.0,Teika,Instagram,Delivered,
+P-00413,2026-05-15,2026-05,Friday,C086,Weekly,Wild Meadow,Large,40.5,Centrs,Instagram,Delivered,
+P-00414,2026-05-15,2026-05,Friday,C017,Bi-weekly,Tulip Spring,Small,19.5,Āgenskalns,Website,Delivered,4
+P-00415,2026-05-15,2026-05,Friday,C205,Bi-weekly,Peony Blush,Small,30.5,Jūrmala,Website,Delivered,4
+P-00416,2026-05-16,2026-05,Saturday,C187,One-off,Riga Rose Classic,Small,28.5,Purvciems,Gift voucher,Delivered,
+P-00417,2026-05-16,2026-05,Saturday,C208,Weekly,Wild Meadow,Medium,29.0,Āgenskalns,Website,Delivered,3
+P-00418,2026-05-16,2026-05,Saturday,C131,Monthly,Tulip Spring,Large,36.5,Āgenskalns,Referral,Delivered,
+P-00419,2026-05-17,2026-05,Sunday,C195,Monthly,Peony Blush,Medium,40.5,Imanta,Referral,Delivered,5
+P-00420,2026-05-18,2026-05,Monday,C055,Monthly,Seasonal Surprise,Large,44.0,Āgenskalns,Gift voucher,Delivered,2
+P-00421,2026-05-18,2026-05,Monday,C169,Weekly,Sunflower Glow,Medium,24.5,Jūrmala,Instagram,Delivered,
+P-00422,2026-05-19,2026-05,Tuesday,C056,Weekly,Seasonal Surprise,Medium,31.5,Centrs,Website,Cancelled,
+P-00423,2026-05-19,2026-05,Tuesday,C141,Bi-weekly,Tulip Spring,Large,36.5,Imanta,Gift voucher,Cancelled,
+P-00424,2026-05-20,2026-05,Wednesday,C234,Monthly,Peony Blush,Small,30.5,Teika,Instagram,Delivered,5
+P-00425,2026-05-20,2026-05,Wednesday,C200,Monthly,Tulip Spring,Large,36.5,Purvciems,Website,Delivered,
+P-00426,2026-05-21,2026-05,Thursday,C252,One-off,Wild Meadow,Medium,32.0,Āgenskalns,Instagram,Delivered,
+P-00427,2026-05-21,2026-05,Thursday,C036,One-off,Peony Blush,Medium,45.0,Āgenskalns,Website,Delivered,
+P-00428,2026-05-22,2026-05,Friday,C084,Weekly,Seasonal Surprise,Large,44.0,Teika,Instagram,Delivered,4
+P-00429,2026-05-22,2026-05,Friday,C130,One-off,Seasonal Surprise,Medium,35.0,Purvciems,Instagram,Delivered,3
+P-00430,2026-05-23,2026-05,Saturday,C085,Bi-weekly,Tulip Spring,Large,36.5,Centrs,Gift voucher,Delivered,
+P-00431,2026-05-23,2026-05,Saturday,C027,One-off,Tulip Spring,Large,40.5,Imanta,Website,Delivered,
+P-00432,2026-05-24,2026-05,Sunday,C207,One-off,Riga Rose Classic,Medium,38.0,Centrs,Website,Delivered,
+P-00433,2026-05-25,2026-05,Monday,C137,One-off,Riga Rose Classic,Medium,38.0,Jūrmala,Gift voucher,Delivered,
+P-00434,2026-05-26,2026-05,Tuesday,C074,Bi-weekly,Wild Meadow,Medium,29.0,Teika,Instagram,Delivered,5
+P-00435,2026-05-26,2026-05,Tuesday,C192,Monthly,Wild Meadow,Large,40.5,Jūrmala,Website,Delivered,
+P-00436,2026-05-27,2026-05,Wednesday,C105,Weekly,Wild Meadow,Medium,29.0,Centrs,Website,Delivered,4
+P-00437,2026-05-28,2026-05,Thursday,C077,One-off,Seasonal Surprise,Small,26.0,Jūrmala,Referral,Delivered,4
+P-00438,2026-05-28,2026-05,Thursday,C088,Bi-weekly,Peony Blush,Medium,40.5,Teika,Instagram,Delivered,
+P-00439,2026-05-28,2026-05,Thursday,C128,Monthly,Peony Blush,Medium,40.5,Centrs,Gift voucher,Delivered,
+P-00440,2026-05-29,2026-05,Friday,C078,Weekly,Peony Blush,Medium,40.5,Imanta,Website,Delivered,
+P-00441,2026-05-29,2026-05,Friday,C147,Bi-weekly,Tulip Spring,Small,19.5,Centrs,Website,Delivered,
+P-00442,2026-05-30,2026-05,Saturday,C085,Bi-weekly,Tulip Spring,Large,36.5,Imanta,Referral,Delivered,5
+P-00443,2026-05-30,2026-05,Saturday,C020,Bi-weekly,Wild Meadow,Medium,29.0,Āgenskalns,Website,Delivered,3
+P-00444,2026-05-30,2026-05,Saturday,C250,One-off,Sunflower Glow,Large,38.0,Āgenskalns,Website,Delivered,
+P-00445,2026-05-31,2026-05,Sunday,C214,One-off,Wild Meadow,Small,24.0,Imanta,Gift voucher,Delivered,5
+P-00446,2026-06-01,2026-06,Monday,C084,Weekly,Peony Blush,Small,30.5,Centrs,Website,Delivered,4
+P-00447,2026-06-01,2026-06,Monday,C143,One-off,Peony Blush,Large,63.0,Āgenskalns,Website,Delivered,5
+P-00448,2026-06-02,2026-06,Tuesday,C259,Bi-weekly,Peony Blush,Medium,40.5,Teika,Referral,Delivered,
+P-00449,2026-06-02,2026-06,Tuesday,C197,Monthly,Wild Meadow,Medium,29.0,Centrs,Referral,Delivered,5
+P-00450,2026-06-03,2026-06,Wednesday,C074,Bi-weekly,Peony Blush,Medium,40.5,Teika,Referral,Delivered,2
+P-00451,2026-06-03,2026-06,Wednesday,C030,Monthly,Peony Blush,Medium,40.5,Jūrmala,Website,Delivered,5
+P-00452,2026-06-03,2026-06,Wednesday,C105,Weekly,Sunflower Glow,Large,34.0,Imanta,Website,Delivered,5
+P-00453,2026-06-04,2026-06,Thursday,C145,Bi-weekly,Wild Meadow,Medium,29.0,Centrs,Website,Cancelled,
+P-00454,2026-06-04,2026-06,Thursday,C116,Monthly,Seasonal Surprise,Medium,31.5,Purvciems,Instagram,Delivered,
+P-00455,2026-06-05,2026-06,Friday,C173,One-off,Sunflower Glow,Medium,27.0,Imanta,Website,Delivered,5
+P-00456,2026-06-05,2026-06,Friday,C061,Bi-weekly,Peony Blush,Medium,40.5,Mežaparks,Instagram,Delivered,5
+P-00457,2026-06-05,2026-06,Friday,C208,Weekly,Peony Blush,Small,30.5,Centrs,Website,Delivered,
+P-00458,2026-06-06,2026-06,Saturday,C219,Bi-weekly,Riga Rose Classic,Small,25.5,Imanta,Website,Delivered,5
+P-00459,2026-06-06,2026-06,Saturday,C030,Monthly,Peony Blush,Small,30.5,Mežaparks,Website,Delivered,5
+P-00460,2026-06-07,2026-06,Sunday,C073,Bi-weekly,Sunflower Glow,Large,34.0,Centrs,Instagram,Delivered,
+P-00461,2026-06-08,2026-06,Monday,C233,Monthly,Sunflower Glow,Large,34.0,Purvciems,Instagram,Delivered,
+P-00462,2026-06-08,2026-06,Monday,C209,Monthly,Wild Meadow,Medium,29.0,Centrs,Website,Delivered,4
+P-00463,2026-06-08,2026-06,Monday,C149,Bi-weekly,Wild Meadow,Medium,29.0,Teika,Instagram,Delivered,
+P-00464,2026-06-09,2026-06,Tuesday,C255,Monthly,Wild Meadow,Small,21.5,Teika,Website,Delivered,5
+P-00465,2026-06-09,2026-06,Tuesday,C154,Weekly,Peony Blush,Small,30.5,Teika,Website,Delivered,
+P-00466,2026-06-10,2026-06,Wednesday,C051,Monthly,Peony Blush,Small,30.5,Teika,Instagram,Delivered,
+P-00467,2026-06-10,2026-06,Wednesday,C029,One-off,Riga Rose Classic,Large,53.0,Centrs,Website,Delivered,
+P-00468,2026-06-11,2026-06,Thursday,C205,Bi-weekly,Wild Meadow,Large,40.5,Āgenskalns,Website,Delivered,
+P-00469,2026-06-12,2026-06,Friday,C125,Weekly,Wild Meadow,Small,21.5,Purvciems,Instagram,Delivered,5
+P-00470,2026-06-12,2026-06,Friday,C105,Weekly,Sunflower Glow,Large,34.0,Purvciems,Website,Delivered,
+P-00471,2026-06-12,2026-06,Friday,C178,Weekly,Peony Blush,Large,56.5,Teika,Gift voucher,Delivered,5
+P-00472,2026-06-13,2026-06,Saturday,C045,Bi-weekly,Wild Meadow,Small,21.5,Purvciems,Instagram,Delivered,5
+P-00473,2026-06-13,2026-06,Saturday,C203,Bi-weekly,Seasonal Surprise,Medium,31.5,Purvciems,Website,Delivered,
+P-00474,2026-06-13,2026-06,Saturday,C085,Bi-weekly,Sunflower Glow,Small,18.0,Teika,Instagram,Delivered,3
+P-00475,2026-06-14,2026-06,Sunday,C220,Bi-weekly,Peony Blush,Large,56.5,Purvciems,Referral,Delivered,5
+P-00476,2026-06-14,2026-06,Sunday,C259,Bi-weekly,Wild Meadow,Large,40.5,Āgenskalns,Instagram,Delivered,
+P-00477,2026-06-15,2026-06,Monday,C246,One-off,Peony Blush,Medium,45.0,Jūrmala,Website,Delivered,4
+P-00478,2026-06-15,2026-06,Monday,C208,Weekly,Wild Meadow,Small,21.5,Mežaparks,Website,Delivered,
+P-00479,2026-06-16,2026-06,Tuesday,C021,Bi-weekly,Peony Blush,Medium,40.5,Mežaparks,Gift voucher,Cancelled,
+P-00480,2026-06-17,2026-06,Wednesday,C084,Weekly,Peony Blush,Small,30.5,Purvciems,Website,Delivered,
+P-00481,2026-06-17,2026-06,Wednesday,C019,Weekly,Riga Rose Classic,Small,25.5,Jūrmala,Website,Delivered,5
+P-00482,2026-06-18,2026-06,Thursday,C037,Monthly,Seasonal Surprise,Small,23.5,Purvciems,Referral,Delivered,5
+P-00483,2026-06-18,2026-06,Thursday,C001,Bi-weekly,Riga Rose Classic,Large,48.0,Purvciems,Website,Delivered,5
+P-00484,2026-06-19,2026-06,Friday,C116,Monthly,Riga Rose Classic,Small,25.5,Imanta,Website,Delivered,
+P-00485,2026-06-19,2026-06,Friday,C113,Bi-weekly,Riga Rose Classic,Small,25.5,Purvciems,Instagram,Delivered,4
+P-00486,2026-06-20,2026-06,Saturday,C154,Weekly,Riga Rose Classic,Medium,34.0,Purvciems,Website,Delivered,3
+P-00487,2026-06-20,2026-06,Saturday,C230,Bi-weekly,Peony Blush,Small,30.5,Purvciems,Instagram,Delivered,
+P-00488,2026-06-21,2026-06,Sunday,C027,One-off,Peony Blush,Medium,45.0,Centrs,Website,Delivered,5
+P-00489,2026-06-22,2026-06,Monday,C147,Bi-weekly,Peony Blush,Large,56.5,Āgenskalns,Website,Delivered,4
+P-00490,2026-06-22,2026-06,Monday,C145,Bi-weekly,Peony Blush,Small,30.5,Āgenskalns,Instagram,Delivered,
+P-00491,2026-06-23,2026-06,Tuesday,C227,Weekly,Seasonal Surprise,Large,44.0,Āgenskalns,Website,Cancelled,
+P-00492,2026-06-24,2026-06,Wednesday,C230,Bi-weekly,Wild Meadow,Medium,29.0,Jūrmala,Referral,Delivered,
+P-00493,2026-06-24,2026-06,Wednesday,C095,Monthly,Seasonal Surprise,Large,44.0,Jūrmala,Referral,Delivered,
+P-00494,2026-06-25,2026-06,Thursday,C253,Weekly,Peony Blush,Medium,40.5,Jūrmala,Referral,Delivered,
+P-00495,2026-06-25,2026-06,Thursday,C186,Weekly,Peony Blush,Medium,40.5,Imanta,Website,Delivered,
+P-00496,2026-06-26,2026-06,Friday,C216,Weekly,Riga Rose Classic,Small,25.5,Mežaparks,Instagram,Delivered,
+P-00497,2026-06-26,2026-06,Friday,C110,One-off,Wild Meadow,Medium,32.0,Purvciems,Website,Delivered,
+P-00498,2026-06-27,2026-06,Saturday,C211,Monthly,Wild Meadow,Large,40.5,Teika,Instagram,Delivered,2
+P-00499,2026-06-27,2026-06,Saturday,C208,Weekly,Peony Blush,Medium,40.5,Teika,Website,Delivered,
+P-00500,2026-06-28,2026-06,Sunday,C202,Monthly,Wild Meadow,Medium,29.0,Centrs,Gift voucher,Delivered,
+P-00501,2026-06-29,2026-06,Monday,C019,Weekly,Tulip Spring,Small,19.5,Imanta,Website,Delivered,4
+P-00502,2026-06-30,2026-06,Tuesday,C019,Weekly,Wild Meadow,Small,21.5,Āgenskalns,Website,Cancelled,
+P-00503,2026-06-30,2026-06,Tuesday,C019,Weekly,Seasonal Surprise,Large,44.0,Purvciems,Website,Delivered,5
+P-00504,2026-07-01,2026-07,Wednesday,C188,Monthly,Sunflower Glow,Medium,24.5,Purvciems,Website,Refunded,
+P-00505,2026-07-01,2026-07,Wednesday,C086,Weekly,Sunflower Glow,Small,18.0,Āgenskalns,Website,Cancelled,
+P-00506,2026-07-02,2026-07,Thursday,C206,Monthly,Peony Blush,Medium,40.5,Āgenskalns,Website,Delivered,4
+P-00507,2026-07-02,2026-07,Thursday,C178,Weekly,Wild Meadow,Small,21.5,Centrs,Website,Delivered,5
+P-00508,2026-07-03,2026-07,Friday,C177,Bi-weekly,Wild Meadow,Medium,29.0,Centrs,Instagram,Delivered,5
+P-00509,2026-07-03,2026-07,Friday,C244,Weekly,Peony Blush,Medium,40.5,Jūrmala,Website,Delivered,4
+P-00510,2026-07-04,2026-07,Saturday,C207,One-off,Wild Meadow,Medium,32.0,Imanta,Website,Delivered,
+P-00511,2026-07-04,2026-07,Saturday,C054,Weekly,Wild Meadow,Small,21.5,Imanta,Instagram,Delivered,5
+P-00512,2026-07-05,2026-07,Sunday,C101,Bi-weekly,Wild Meadow,Large,40.5,Mežaparks,Website,Delivered,5
+P-00513,2026-07-06,2026-07,Monday,C145,Bi-weekly,Sunflower Glow,Small,18.0,Jūrmala,Instagram,Delivered,4
+P-00514,2026-07-07,2026-07,Tuesday,C094,One-off,Peony Blush,Medium,45.0,Purvciems,Website,Delivered,5
+P-00515,2026-07-07,2026-07,Tuesday,C243,Weekly,Riga Rose Classic,Small,25.5,Centrs,Referral,Delivered,
+P-00516,2026-07-08,2026-07,Wednesday,C185,Weekly,Wild Meadow,Large,40.5,Jūrmala,Instagram,Delivered,5
+P-00517,2026-07-08,2026-07,Wednesday,C198,Monthly,Wild Meadow,Medium,29.0,Mežaparks,Gift voucher,Delivered,3
+P-00518,2026-07-08,2026-07,Wednesday,C149,Bi-weekly,Wild Meadow,Large,40.5,Centrs,Website,Delivered,
+P-00519,2026-07-09,2026-07,Thursday,C056,Weekly,Tulip Spring,Small,19.5,Centrs,Instagram,Delivered,5
+P-00520,2026-07-10,2026-07,Friday,C101,Bi-weekly,Sunflower Glow,Large,34.0,Āgenskalns,Website,Delivered,4
+P-00521,2026-07-10,2026-07,Friday,C085,Bi-weekly,Sunflower Glow,Medium,24.5,Centrs,Instagram,Delivered,5
+P-00522,2026-07-10,2026-07,Friday,C008,Weekly,Sunflower Glow,Large,34.0,Teika,Instagram,Delivered,
+P-00523,2026-07-11,2026-07,Saturday,C031,One-off,Sunflower Glow,Medium,27.0,Centrs,Website,Delivered,5
+P-00524,2026-07-11,2026-07,Saturday,C060,One-off,Peony Blush,Small,34.0,Centrs,Website,Delivered,5
+P-00525,2026-07-11,2026-07,Saturday,C257,Monthly,Wild Meadow,Medium,29.0,Centrs,Website,Delivered,4
+P-00526,2026-07-12,2026-07,Sunday,C148,Weekly,Sunflower Glow,Large,34.0,Centrs,Gift voucher,Delivered,
+P-00527,2026-07-13,2026-07,Monday,C026,One-off,Seasonal Surprise,Medium,35.0,Āgenskalns,Instagram,Delivered,5
+P-00528,2026-07-13,2026-07,Monday,C168,Monthly,Riga Rose Classic,Medium,34.0,Purvciems,Referral,Delivered,
+P-00529,2026-07-14,2026-07,Tuesday,C241,One-off,Sunflower Glow,Medium,27.0,Āgenskalns,Gift voucher,Delivered,
+P-00530,2026-07-14,2026-07,Tuesday,C224,Weekly,Peony Blush,Large,56.5,Purvciems,Instagram,Cancelled,
+P-00531,2026-07-15,2026-07,Wednesday,C175,Bi-weekly,Peony Blush,Medium,40.5,Centrs,Website,Cancelled,
+P-00532,2026-07-15,2026-07,Wednesday,C049,Weekly,Sunflower Glow,Medium,24.5,Teika,Instagram,Delivered,
+P-00533,2026-07-16,2026-07,Thursday,C078,Weekly,Sunflower Glow,Medium,24.5,Purvciems,Website,Delivered,
+P-00534,2026-07-16,2026-07,Thursday,C140,Monthly,Wild Meadow,Medium,29.0,Mežaparks,Website,Delivered,4
+P-00535,2026-07-17,2026-07,Friday,C252,One-off,Seasonal Surprise,Medium,35.0,Jūrmala,Referral,Refunded,
+P-00536,2026-07-17,2026-07,Friday,C108,Monthly,Sunflower Glow,Small,18.0,Āgenskalns,Referral,Delivered,
+P-00537,2026-07-18,2026-07,Saturday,C125,Weekly,Peony Blush,Large,56.5,Centrs,Website,Delivered,3
+P-00538,2026-07-18,2026-07,Saturday,C167,Bi-weekly,Seasonal Surprise,Small,23.5,Teika,Referral,Delivered,5
+P-00539,2026-07-19,2026-07,Sunday,C185,Weekly,Sunflower Glow,Medium,24.5,Mežaparks,Instagram,Delivered,
+P-00540,2026-07-19,2026-07,Sunday,C169,Weekly,Wild Meadow,Medium,29.0,Jūrmala,Website,Delivered,5
+P-00541,2026-07-20,2026-07,Monday,C173,One-off,Peony Blush,Large,63.0,Teika,Website,Delivered,
+P-00542,2026-07-20,2026-07,Monday,C141,Bi-weekly,Peony Blush,Small,30.5,Purvciems,Referral,Delivered,
+P-00543,2026-07-20,2026-07,Monday,C247,Bi-weekly,Peony Blush,Medium,40.5,Purvciems,Instagram,Delivered,5
+P-00544,2026-07-21,2026-07,Tuesday,C038,One-off,Seasonal Surprise,Large,49.0,Jūrmala,Website,Delivered,
+P-00545,2026-07-21,2026-07,Tuesday,C154,Weekly,Wild Meadow,Medium,29.0,Jūrmala,Instagram,Delivered,
+P-00546,2026-07-22,2026-07,Wednesday,C101,Bi-weekly,Tulip Spring,Small,19.5,Purvciems,Website,Delivered,4
+P-00547,2026-07-23,2026-07,Thursday,C208,Weekly,Riga Rose Classic,Large,48.0,Āgenskalns,Instagram,Delivered,
+P-00548,2026-07-23,2026-07,Thursday,C105,Weekly,Riga Rose Classic,Large,48.0,Āgenskalns,Website,Delivered,4
+P-00549,2026-07-23,2026-07,Thursday,C048,Monthly,Sunflower Glow,Small,18.0,Centrs,Website,Delivered,3
+P-00550,2026-07-24,2026-07,Friday,C049,Weekly,Wild Meadow,Small,21.5,Centrs,Website,Delivered,5
+P-00551,2026-07-24,2026-07,Friday,C247,Bi-weekly,Peony Blush,Small,30.5,Centrs,Website,Delivered,
+P-00552,2026-07-25,2026-07,Saturday,C186,Weekly,Peony Blush,Large,56.5,Centrs,Website,Delivered,
+P-00553,2026-07-25,2026-07,Saturday,C132,One-off,Sunflower Glow,Medium,27.0,Teika,Instagram,Cancelled,
+P-00554,2026-07-26,2026-07,Sunday,C227,Weekly,Wild Meadow,Large,40.5,Purvciems,Website,Delivered,5
+P-00555,2026-07-26,2026-07,Sunday,C229,Monthly,Sunflower Glow,Small,18.0,Teika,Website,Delivered,4
+P-00556,2026-07-27,2026-07,Monday,C119,Monthly,Riga Rose Classic,Small,25.5,Purvciems,Website,Delivered,5
+P-00557,2026-07-27,2026-07,Monday,C181,One-off,Peony Blush,Medium,45.0,Teika,Referral,Delivered,4
+P-00558,2026-07-27,2026-07,Monday,C147,Bi-weekly,Riga Rose Classic,Small,25.5,Jūrmala,Website,Delivered,
+P-00559,2026-07-28,2026-07,Tuesday,C241,One-off,Peony Blush,Medium,45.0,Centrs,Instagram,Delivered,5
+P-00560,2026-07-28,2026-07,Tuesday,C147,Bi-weekly,Peony Blush,Medium,40.5,Jūrmala,Referral,Delivered,4
+P-00561,2026-07-28,2026-07,Tuesday,C186,Weekly,Peony Blush,Medium,40.5,Āgenskalns,Instagram,Delivered,
+P-00562,2026-07-29,2026-07,Wednesday,C259,Bi-weekly,Riga Rose Classic,Large,48.0,Āgenskalns,Instagram,Delivered,
+P-00563,2026-07-29,2026-07,Wednesday,C235,Weekly,Riga Rose Classic,Medium,34.0,Jūrmala,Gift voucher,Delivered,
+P-00564,2026-07-30,2026-07,Thursday,C216,Weekly,Riga Rose Classic,Small,25.5,Āgenskalns,Website,Cancelled,
+P-00565,2026-07-30,2026-07,Thursday,C059,One-off,Sunflower Glow,Large,38.0,Centrs,Website,Delivered,4
+P-00566,2026-07-31,2026-07,Friday,C220,Bi-weekly,Seasonal Surprise,Small,23.5,Jūrmala,Website,Delivered,
+P-00567,2026-07-31,2026-07,Friday,C084,Weekly,Seasonal Surprise,Medium,31.5,Purvciems,Instagram,Delivered,5
+P-00568,2026-08-01,2026-08,Saturday,C113,Bi-weekly,Wild Meadow,Large,40.5,Jūrmala,Instagram,Delivered,5
+P-00569,2026-08-01,2026-08,Saturday,C139,One-off,Sunflower Glow,Small,20.0,Centrs,Website,Delivered,4
+P-00570,2026-08-02,2026-08,Sunday,C185,Weekly,Riga Rose Classic,Small,25.5,Āgenskalns,Website,Cancelled,
+P-00571,2026-08-03,2026-08,Monday,C001,Bi-weekly,Peony Blush,Medium,40.5,Centrs,Website,Cancelled,
+P-00572,2026-08-03,2026-08,Monday,C207,One-off,Wild Meadow,Small,24.0,Centrs,Instagram,Delivered,5
+P-00573,2026-08-04,2026-08,Tuesday,C020,Bi-weekly,Wild Meadow,Medium,29.0,Imanta,Instagram,Delivered,
+P-00574,2026-08-04,2026-08,Tuesday,C167,Bi-weekly,Sunflower Glow,Large,34.0,Imanta,Website,Delivered,5
+P-00575,2026-08-05,2026-08,Wednesday,C203,Bi-weekly,Sunflower Glow,Small,18.0,Jūrmala,Instagram,Delivered,5
+P-00576,2026-08-05,2026-08,Wednesday,C099,Weekly,Sunflower Glow,Large,34.0,Mežaparks,Website,Delivered,
+P-00577,2026-08-06,2026-08,Thursday,C190,Bi-weekly,Sunflower Glow,Medium,24.5,Purvciems,Referral,Delivered,
+P-00578,2026-08-06,2026-08,Thursday,C098,Monthly,Sunflower Glow,Large,34.0,Centrs,Instagram,Delivered,
+P-00579,2026-08-06,2026-08,Thursday,C141,Bi-weekly,Riga Rose Classic,Medium,34.0,Imanta,Website,Delivered,
+P-00580,2026-08-07,2026-08,Friday,C157,Bi-weekly,Wild Meadow,Large,40.5,Jūrmala,Website,Delivered,
+P-00581,2026-08-07,2026-08,Friday,C158,One-off,Sunflower Glow,Small,20.0,Imanta,Website,Delivered,
+P-00582,2026-08-08,2026-08,Saturday,C089,Bi-weekly,Wild Meadow,Small,21.5,Jūrmala,Website,Delivered,4
+P-00583,2026-08-08,2026-08,Saturday,C081,Monthly,Riga Rose Classic,Small,25.5,Āgenskalns,Website,Delivered,5
+P-00584,2026-08-08,2026-08,Saturday,C169,Weekly,Wild Meadow,Large,40.5,Purvciems,Instagram,Delivered,4
+P-00585,2026-08-09,2026-08,Sunday,C202,Monthly,Sunflower Glow,Small,18.0,Āgenskalns,Referral,Delivered,
+P-00586,2026-08-10,2026-08,Monday,C056,Weekly,Sunflower Glow,Medium,24.5,Centrs,Instagram,Delivered,5
+P-00587,2026-08-10,2026-08,Monday,C099,Weekly,Sunflower Glow,Large,34.0,Jūrmala,Gift voucher,Delivered,
+P-00588,2026-08-11,2026-08,Tuesday,C201,One-off,Riga Rose Classic,Small,28.5,Centrs,Instagram,Delivered,5
+P-00589,2026-08-11,2026-08,Tuesday,C137,One-off,Wild Meadow,Medium,32.0,Imanta,Instagram,Delivered,
+P-00590,2026-08-12,2026-08,Wednesday,C166,Bi-weekly,Sunflower Glow,Medium,24.5,Imanta,Website,Delivered,3
+P-00591,2026-08-13,2026-08,Thursday,C189,Bi-weekly,Sunflower Glow,Small,18.0,Teika,Website,Delivered,5
+P-00592,2026-08-14,2026-08,Friday,C166,Bi-weekly,Sunflower Glow,Medium,24.5,Teika,Website,Delivered,4
+P-00593,2026-08-14,2026-08,Friday,C244,Weekly,Sunflower Glow,Small,18.0,Teika,Website,Delivered,
+P-00594,2026-08-14,2026-08,Friday,C201,One-off,Wild Meadow,Small,24.0,Jūrmala,Website,Delivered,4
+P-00595,2026-08-15,2026-08,Saturday,C235,Weekly,Riga Rose Classic,Medium,34.0,Purvciems,Website,Delivered,
+P-00596,2026-08-15,2026-08,Saturday,C190,Bi-weekly,Tulip Spring,Medium,26.0,Purvciems,Instagram,Delivered,
+P-00597,2026-08-15,2026-08,Saturday,C088,Bi-weekly,Sunflower Glow,Small,18.0,Jūrmala,Website,Delivered,
+P-00598,2026-08-16,2026-08,Sunday,C145,Bi-weekly,Wild Meadow,Medium,29.0,Jūrmala,Gift voucher,Delivered,4
+P-00599,2026-08-17,2026-08,Monday,C227,Weekly,Sunflower Glow,Large,34.0,Jūrmala,Website,Delivered,
+P-00600,2026-08-17,2026-08,Monday,C138,Weekly,Peony Blush,Large,56.5,Centrs,Website,Delivered,4
+P-00601,2026-08-17,2026-08,Monday,C253,Weekly,Wild Meadow,Medium,29.0,Āgenskalns,Website,Delivered,
+P-00602,2026-08-18,2026-08,Tuesday,C208,Weekly,Sunflower Glow,Large,34.0,Jūrmala,Website,Delivered,5
+P-00603,2026-08-18,2026-08,Tuesday,C216,Weekly,Wild Meadow,Small,21.5,Centrs,Instagram,Delivered,5
+P-00604,2026-08-18,2026-08,Tuesday,C228,One-off,Sunflower Glow,Medium,27.0,Purvciems,Gift voucher,Delivered,4
+P-00605,2026-08-19,2026-08,Wednesday,C186,Weekly,Peony Blush,Medium,40.5,Imanta,Website,Delivered,
+P-00606,2026-08-19,2026-08,Wednesday,C175,Bi-weekly,Peony Blush,Medium,40.5,Purvciems,Website,Delivered,
+P-00607,2026-08-20,2026-08,Thursday,C004,Monthly,Riga Rose Classic,Medium,34.0,Āgenskalns,Website,Delivered,5
+P-00608,2026-08-20,2026-08,Thursday,C243,Weekly,Seasonal Surprise,Medium,31.5,Centrs,Website,Delivered,3
+P-00609,2026-08-21,2026-08,Friday,C192,Monthly,Wild Meadow,Small,21.5,Centrs,Referral,Delivered,
+P-00610,2026-08-21,2026-08,Friday,C148,Weekly,Sunflower Glow,Medium,24.5,Centrs,Website,Delivered,
+P-00611,2026-08-21,2026-08,Friday,C156,One-off,Peony Blush,Medium,45.0,Purvciems,Website,Delivered,
+P-00612,2026-08-22,2026-08,Saturday,C128,Monthly,Sunflower Glow,Medium,24.5,Centrs,Referral,Delivered,4
+P-00613,2026-08-22,2026-08,Saturday,C243,Weekly,Seasonal Surprise,Medium,31.5,Centrs,Website,Delivered,4
+P-00614,2026-08-23,2026-08,Sunday,C135,Monthly,Tulip Spring,Medium,26.0,Āgenskalns,Website,Delivered,
+P-00615,2026-08-23,2026-08,Sunday,C120,One-off,Seasonal Surprise,Small,26.0,Teika,Referral,Delivered,5
+P-00616,2026-08-24,2026-08,Monday,C029,One-off,Seasonal Surprise,Large,49.0,Āgenskalns,Instagram,Delivered,2
+P-00617,2026-08-24,2026-08,Monday,C216,Weekly,Tulip Spring,Medium,26.0,Centrs,Instagram,Delivered,4
+P-00618,2026-08-25,2026-08,Tuesday,C025,One-off,Seasonal Surprise,Small,26.0,Mežaparks,Instagram,Delivered,5
+P-00619,2026-08-25,2026-08,Tuesday,C138,Weekly,Wild Meadow,Medium,29.0,Centrs,Instagram,Delivered,4
+P-00620,2026-08-26,2026-08,Wednesday,C163,Weekly,Wild Meadow,Small,21.5,Mežaparks,Instagram,Delivered,
+P-00621,2026-08-26,2026-08,Wednesday,C244,Weekly,Riga Rose Classic,Medium,34.0,Āgenskalns,Website,Delivered,5
+P-00622,2026-08-27,2026-08,Thursday,C246,One-off,Wild Meadow,Medium,32.0,Imanta,Website,Delivered,4
+P-00623,2026-08-27,2026-08,Thursday,C224,Weekly,Seasonal Surprise,Small,23.5,Mežaparks,Instagram,Refunded,
+P-00624,2026-08-28,2026-08,Friday,C231,Bi-weekly,Seasonal Surprise,Medium,31.5,Purvciems,Website,Delivered,5
+P-00625,2026-08-28,2026-08,Friday,C057,One-off,Wild Meadow,Medium,32.0,Jūrmala,Website,Delivered,
+P-00626,2026-08-28,2026-08,Friday,C070,One-off,Sunflower Glow,Small,20.0,Centrs,Instagram,Delivered,
+P-00627,2026-08-29,2026-08,Saturday,C244,Weekly,Wild Meadow,Large,40.5,Purvciems,Instagram,Delivered,
+P-00628,2026-08-29,2026-08,Saturday,C054,Weekly,Riga Rose Classic,Small,25.5,Teika,Website,Delivered,5
+P-00629,2026-08-29,2026-08,Saturday,C216,Weekly,Sunflower Glow,Medium,24.5,Purvciems,Website,Delivered,
+P-00630,2026-08-29,2026-08,Saturday,C091,Monthly,Wild Meadow,Medium,29.0,Āgenskalns,Website,Delivered,
+P-00631,2026-08-30,2026-08,Sunday,C121,One-off,Seasonal Surprise,Medium,35.0,Āgenskalns,Referral,Delivered,5
+P-00632,2026-08-31,2026-08,Monday,C122,One-off,Tulip Spring,Medium,29.0,Imanta,Referral,Delivered,4
+P-00633,2026-08-31,2026-08,Monday,C051,Monthly,Wild Meadow,Medium,29.0,Centrs,Website,Delivered,4
+P-00634,2026-09-01,2026-09,Tuesday,C032,One-off,Sunflower Glow,Small,20.0,Jūrmala,Website,Delivered,3
+P-00635,2026-09-01,2026-09,Tuesday,C117,One-off,Sunflower Glow,Small,20.0,Āgenskalns,Website,Delivered,
+P-00636,2026-09-02,2026-09,Wednesday,C110,One-off,Sunflower Glow,Medium,27.0,Āgenskalns,Website,Delivered,5
+P-00637,2026-09-02,2026-09,Wednesday,C132,One-off,Riga Rose Classic,Large,53.0,Purvciems,Instagram,Delivered,
+P-00638,2026-09-03,2026-09,Thursday,C045,Bi-weekly,Sunflower Glow,Large,34.0,Imanta,Website,Delivered,
+P-00639,2026-09-03,2026-09,Thursday,C195,Monthly,Seasonal Surprise,Large,44.0,Teika,Referral,Delivered,5
+P-00640,2026-09-03,2026-09,Thursday,C040,Monthly,Wild Meadow,Small,21.5,Centrs,Website,Delivered,5
+P-00641,2026-09-04,2026-09,Friday,C239,Bi-weekly,Peony Blush,Small,30.5,Centrs,Referral,Delivered,5
+P-00642,2026-09-04,2026-09,Friday,C133,One-off,Sunflower Glow,Large,38.0,Jūrmala,Instagram,Delivered,5
+P-00643,2026-09-04,2026-09,Friday,C180,Bi-weekly,Riga Rose Classic,Small,25.5,Mežaparks,Referral,Delivered,3
+P-00644,2026-09-05,2026-09,Saturday,C025,One-off,Wild Meadow,Small,24.0,Mežaparks,Referral,Delivered,
+P-00645,2026-09-05,2026-09,Saturday,C237,Monthly,Wild Meadow,Large,40.5,Centrs,Website,Delivered,
+P-00646,2026-09-06,2026-09,Sunday,C196,Bi-weekly,Seasonal Surprise,Medium,31.5,Mežaparks,Referral,Delivered,5
+P-00647,2026-09-07,2026-09,Monday,C081,Monthly,Riga Rose Classic,Medium,34.0,Āgenskalns,Referral,Delivered,4
+P-00648,2026-09-07,2026-09,Monday,C087,Bi-weekly,Seasonal Surprise,Large,44.0,Imanta,Website,Delivered,5
+P-00649,2026-09-07,2026-09,Monday,C086,Weekly,Seasonal Surprise,Medium,31.5,Centrs,Website,Delivered,5
+P-00650,2026-09-08,2026-09,Tuesday,C056,Weekly,Wild Meadow,Large,40.5,Imanta,Website,Delivered,5
+P-00651,2026-09-08,2026-09,Tuesday,C187,One-off,Wild Meadow,Medium,32.0,Teika,Website,Delivered,
+P-00652,2026-09-08,2026-09,Tuesday,C098,Monthly,Sunflower Glow,Medium,24.5,Imanta,Website,Delivered,
+P-00653,2026-09-09,2026-09,Wednesday,C169,Weekly,Wild Meadow,Medium,29.0,Teika,Website,Delivered,
+P-00654,2026-09-09,2026-09,Wednesday,C241,One-off,Wild Meadow,Small,24.0,Āgenskalns,Referral,Delivered,
+P-00655,2026-09-10,2026-09,Thursday,C099,Weekly,Wild Meadow,Medium,29.0,Āgenskalns,Website,Cancelled,
+P-00656,2026-09-10,2026-09,Thursday,C001,Bi-weekly,Sunflower Glow,Large,34.0,Jūrmala,Instagram,Delivered,2
+P-00657,2026-09-11,2026-09,Friday,C208,Weekly,Seasonal Surprise,Medium,31.5,Imanta,Instagram,Delivered,4
+P-00658,2026-09-11,2026-09,Friday,C040,Monthly,Sunflower Glow,Small,18.0,Imanta,Website,Delivered,
+P-00659,2026-09-12,2026-09,Saturday,C141,Bi-weekly,Wild Meadow,Small,21.5,Imanta,Website,Delivered,3
+P-00660,2026-09-12,2026-09,Saturday,C118,Monthly,Wild Meadow,Medium,29.0,Mežaparks,Referral,Delivered,
+P-00661,2026-09-13,2026-09,Sunday,C141,Bi-weekly,Sunflower Glow,Medium,24.5,Centrs,Website,Delivered,
+P-00662,2026-09-13,2026-09,Sunday,C128,Monthly,Sunflower Glow,Medium,24.5,Āgenskalns,Website,Delivered,
+P-00663,2026-09-14,2026-09,Monday,C248,One-off,Wild Meadow,Medium,32.0,Centrs,Website,Delivered,
+P-00664,2026-09-14,2026-09,Monday,C116,Monthly,Riga Rose Classic,Large,48.0,Centrs,Instagram,Delivered,
+P-00665,2026-09-15,2026-09,Tuesday,C138,Weekly,Riga Rose Classic,Medium,34.0,Imanta,Website,Delivered,
+P-00666,2026-09-15,2026-09,Tuesday,C145,Bi-weekly,Sunflower Glow,Large,34.0,Centrs,Website,Refunded,
+P-00667,2026-09-15,2026-09,Tuesday,C238,One-off,Sunflower Glow,Medium,27.0,Āgenskalns,Instagram,Delivered,4
+P-00668,2026-09-16,2026-09,Wednesday,C019,Weekly,Wild Meadow,Small,21.5,Teika,Website,Delivered,
+P-00669,2026-09-16,2026-09,Wednesday,C222,Monthly,Tulip Spring,Small,19.5,Āgenskalns,Website,Cancelled,
+P-00670,2026-09-17,2026-09,Thursday,C148,Weekly,Sunflower Glow,Small,18.0,Mežaparks,Referral,Delivered,5
+P-00671,2026-09-17,2026-09,Thursday,C021,Bi-weekly,Sunflower Glow,Medium,24.5,Centrs,Gift voucher,Delivered,2
+P-00672,2026-09-17,2026-09,Thursday,C005,Bi-weekly,Sunflower Glow,Small,18.0,Teika,Referral,Delivered,5
+P-00673,2026-09-18,2026-09,Friday,C020,Bi-weekly,Sunflower Glow,Medium,24.5,Centrs,Instagram,Delivered,
+P-00674,2026-09-18,2026-09,Friday,C148,Weekly,Seasonal Surprise,Small,23.5,Teika,Instagram,Delivered,5
+P-00675,2026-09-18,2026-09,Friday,C168,Monthly,Wild Meadow,Medium,29.0,Imanta,Website,Cancelled,
+P-00676,2026-09-19,2026-09,Saturday,C093,Monthly,Wild Meadow,Small,21.5,Teika,Gift voucher,Delivered,4
+P-00677,2026-09-19,2026-09,Saturday,C180,Bi-weekly,Sunflower Glow,Large,34.0,Centrs,Website,Delivered,5
+P-00678,2026-09-19,2026-09,Saturday,C129,One-off,Riga Rose Classic,Small,28.5,Centrs,Instagram,Delivered,
+P-00679,2026-09-20,2026-09,Sunday,C182,One-off,Seasonal Surprise,Large,49.0,Centrs,Gift voucher,Delivered,1
+P-00680,2026-09-21,2026-09,Monday,C145,Bi-weekly,Wild Meadow,Large,40.5,Mežaparks,Website,Delivered,
+P-00681,2026-09-21,2026-09,Monday,C205,Bi-weekly,Wild Meadow,Large,40.5,Āgenskalns,Instagram,Delivered,1
+P-00682,2026-09-22,2026-09,Tuesday,C172,Weekly,Riga Rose Classic,Large,48.0,Centrs,Instagram,Delivered,5
+P-00683,2026-09-22,2026-09,Tuesday,C164,One-off,Wild Meadow,Large,45.0,Imanta,Instagram,Delivered,4
+P-00684,2026-09-23,2026-09,Wednesday,C207,One-off,Riga Rose Classic,Large,53.0,Jūrmala,Gift voucher,Delivered,5
+P-00685,2026-09-23,2026-09,Wednesday,C096,Monthly,Riga Rose Classic,Large,48.0,Mežaparks,Website,Delivered,5
+P-00686,2026-09-24,2026-09,Thursday,C049,Weekly,Sunflower Glow,Large,34.0,Centrs,Instagram,Delivered,
+P-00687,2026-09-25,2026-09,Friday,C219,Bi-weekly,Seasonal Surprise,Medium,31.5,Jūrmala,Website,Delivered,3
+P-00688,2026-09-25,2026-09,Friday,C126,One-off,Riga Rose Classic,Small,28.5,Imanta,Website,Delivered,
+P-00689,2026-09-25,2026-09,Friday,C065,Bi-weekly,Tulip Spring,Medium,26.0,Āgenskalns,Website,Delivered,5
+P-00690,2026-09-26,2026-09,Saturday,C247,Bi-weekly,Sunflower Glow,Large,34.0,Āgenskalns,Website,Delivered,4
+P-00691,2026-09-26,2026-09,Saturday,C189,Bi-weekly,Peony Blush,Small,30.5,Imanta,Website,Delivered,3
+P-00692,2026-09-27,2026-09,Sunday,C202,Monthly,Riga Rose Classic,Medium,34.0,Centrs,Website,Delivered,3
+P-00693,2026-09-28,2026-09,Monday,C208,Weekly,Wild Meadow,Medium,29.0,Imanta,Referral,Delivered,
+P-00694,2026-09-28,2026-09,Monday,C157,Bi-weekly,Sunflower Glow,Medium,24.5,Centrs,Instagram,Delivered,
+P-00695,2026-09-29,2026-09,Tuesday,C086,Weekly,Sunflower Glow,Small,18.0,Centrs,Instagram,Delivered,
+P-00696,2026-09-29,2026-09,Tuesday,C175,Bi-weekly,Riga Rose Classic,Medium,34.0,Imanta,Website,Delivered,
+P-00697,2026-09-30,2026-09,Wednesday,C151,Monthly,Wild Meadow,Large,40.5,Teika,Website,Delivered,5
+P-00698,2026-09-30,2026-09,Wednesday,C145,Bi-weekly,Peony Blush,Medium,40.5,Centrs,Instagram,Delivered,
+P-00699,2026-10-01,2026-10,Thursday,C190,Bi-weekly,Wild Meadow,Medium,29.0,Purvciems,Instagram,Delivered,3
+P-00700,2026-10-01,2026-10,Thursday,C114,Monthly,Seasonal Surprise,Medium,31.5,Teika,Website,Delivered,3
+P-00701,2026-10-02,2026-10,Friday,C154,Weekly,Seasonal Surprise,Medium,31.5,Jūrmala,Website,Delivered,
+P-00702,2026-10-02,2026-10,Friday,C250,One-off,Wild Meadow,Medium,32.0,Purvciems,Instagram,Delivered,
+P-00703,2026-10-02,2026-10,Friday,C147,Bi-weekly,Riga Rose Classic,Small,25.5,Imanta,Referral,Delivered,
+P-00704,2026-10-03,2026-10,Saturday,C191,One-off,Seasonal Surprise,Medium,35.0,Purvciems,Referral,Delivered,
+P-00705,2026-10-03,2026-10,Saturday,C216,Weekly,Sunflower Glow,Small,18.0,Teika,Instagram,Delivered,
+P-00706,2026-10-03,2026-10,Saturday,C238,One-off,Seasonal Surprise,Large,49.0,Purvciems,Referral,Cancelled,
+P-00707,2026-10-03,2026-10,Saturday,C100,One-off,Seasonal Surprise,Medium,35.0,Centrs,Instagram,Delivered,
+P-00708,2026-10-04,2026-10,Sunday,C032,One-off,Riga Rose Classic,Small,28.5,Teika,Website,Cancelled,
+P-00709,2026-10-04,2026-10,Sunday,C110,One-off,Sunflower Glow,Medium,27.0,Jūrmala,Website,Delivered,4
+P-00710,2026-10-05,2026-10,Monday,C157,Bi-weekly,Sunflower Glow,Large,34.0,Āgenskalns,Referral,Delivered,
+P-00711,2026-10-05,2026-10,Monday,C005,Bi-weekly,Peony Blush,Small,30.5,Purvciems,Instagram,Delivered,
+P-00712,2026-10-05,2026-10,Monday,C220,Bi-weekly,Seasonal Surprise,Medium,31.5,Purvciems,Website,Delivered,
+P-00713,2026-10-06,2026-10,Tuesday,C249,Bi-weekly,Sunflower Glow,Medium,24.5,Teika,Website,Delivered,4
+P-00714,2026-10-07,2026-10,Wednesday,C189,Bi-weekly,Riga Rose Classic,Medium,34.0,Teika,Referral,Delivered,5
+P-00715,2026-10-07,2026-10,Wednesday,C234,Monthly,Wild Meadow,Small,21.5,Teika,Website,Delivered,5
+P-00716,2026-10-08,2026-10,Thursday,C028,One-off,Peony Blush,Medium,45.0,Purvciems,Instagram,Delivered,1
+P-00717,2026-10-08,2026-10,Thursday,C178,Weekly,Peony Blush,Medium,40.5,Centrs,Gift voucher,Delivered,2
+P-00718,2026-10-08,2026-10,Thursday,C149,Bi-weekly,Peony Blush,Small,30.5,Centrs,Website,Delivered,2
+P-00719,2026-10-09,2026-10,Friday,C072,One-off,Riga Rose Classic,Large,53.0,Jūrmala,Gift voucher,Cancelled,
+P-00720,2026-10-09,2026-10,Friday,C222,Monthly,Peony Blush,Large,56.5,Teika,Referral,Delivered,
+P-00721,2026-10-10,2026-10,Saturday,C212,One-off,Riga Rose Classic,Medium,38.0,Teika,Instagram,Delivered,5
+P-00722,2026-10-10,2026-10,Saturday,C186,Weekly,Sunflower Glow,Small,18.0,Purvciems,Referral,Delivered,4
+P-00723,2026-10-10,2026-10,Saturday,C095,Monthly,Peony Blush,Medium,40.5,Imanta,Website,Delivered,4
+P-00724,2026-10-11,2026-10,Sunday,C021,Bi-weekly,Seasonal Surprise,Small,23.5,Jūrmala,Instagram,Delivered,
+P-00725,2026-10-12,2026-10,Monday,C224,Weekly,Tulip Spring,Medium,26.0,Centrs,Website,Refunded,
+P-00726,2026-10-12,2026-10,Monday,C148,Weekly,Wild Meadow,Small,21.5,Centrs,Website,Delivered,5
+P-00727,2026-10-12,2026-10,Monday,C236,One-off,Wild Meadow,Medium,32.0,Centrs,Referral,Delivered,
+P-00728,2026-10-13,2026-10,Tuesday,C169,Weekly,Sunflower Glow,Large,34.0,Imanta,Website,Delivered,4
